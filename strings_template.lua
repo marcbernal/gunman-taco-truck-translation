@@ -205,33 +205,33 @@ MEAT NAMES
 
 ---------------------------------------------------]]
 -- st_data["#asadameat_name"] 	= "Carne Asada"
-st_data["#asadameat_name"] 		= ""
+st_data["#asadameat_name"] 		= "Carn a la Brasa"
 -- st_data["#carnitasmeat_name"]= "Carnitas"
-st_data["#carnitasmeat_name"] 	= ""
+st_data["#carnitasmeat_name"] 	= "Carnitas"
 -- st_data["#pollomeat_name"] 	= "Pollo"
-st_data["#pollomeat_name"] 		= ""
+st_data["#pollomeat_name"] 		= "Pollastre"
 -- st_data["#bunnymeat_name"] 	= "Bunny"
-st_data["#bunnymeat_name"] 		= ""
+st_data["#bunnymeat_name"] 		= "Conill"
 -- st_data["#frogmeat_name"] 	= "Frog"
-st_data["#frogmeat_name"] 		= ""
+st_data["#frogmeat_name"] 		= "Granota"
 -- st_data["#antmeat_name"] 	= "Ant"
-st_data["#antmeat_name"] 		= ""
+st_data["#antmeat_name"] 		= "Formiga"
 -- st_data["#helltain_name"] 	= "Helltain"
 st_data["#helltain_name"] 		= ""
 -- st_data["#speeter_name"] 	= "Speeter"
-st_data["#speeter_name"] 		= ""
+st_data["#speeter_name"] 		= "Speeter"
 -- st_data["#deadmeat_name"] 	= "Dead Meat"
-st_data["#deadmeat_name"] 		= ""
+st_data["#deadmeat_name"] 		= "Carn morta"
 -- st_data["#deviledchicken_name"] = "Deviled Chicken"
-st_data["#deviledchicken_name"] = ""
+st_data["#deviledchicken_name"] = "Pollastre a la diabla"
 -- st_data["#fatflank_name"] 	= "Fat Flank"
-st_data["#fatflank_name"] 		= ""
+st_data["#fatflank_name"] 		= "Costelles de Greix"
 -- st_data["#bearmeat_name"] 	= "Boom Bear"
-st_data["#bearmeat_name"] 		= ""
+st_data["#bearmeat_name"] 		= "Ós Explossiu"
 -- st_data["#catfishmeat_name"] = "Catfish"
-st_data["#catfishmeat_name"] 	= ""
+st_data["#catfishmeat_name"] 	= "Silur"
 -- st_data["#condorkmeat_name"] = "Condork"
-st_data["#condorkmeat_name"] 	= ""
+st_data["#condorkmeat_name"] 	= "Condork"
 -- st_data["#hellshockermeat_name"] = "Hell Shocker"
 st_data["#hellshockermeat_name"] = ""
 -- st_data["#menacermeat_name"] = "Menacer"
@@ -239,7 +239,7 @@ st_data["#menacermeat_name"] 	= ""
 -- st_data["#modcatmeat_name"] 	= "Modcat"
 st_data["#modcatmeat_name"] 	= ""
 -- st_data["#spidermeat_name"] 	= "Spider"
-st_data["#spidermeat_name"] 	= ""
+st_data["#spidermeat_name"] 	= "Aranya"
 
 --[[-------------------------------------------------
 
@@ -247,21 +247,21 @@ INGREDIENT NAMES
 
 ---------------------------------------------------]]
 -- st_data["#mold_name"] 			 = "Mold"
-st_data["#mold_name"] 				 = ""
+st_data["#mold_name"] 				 = "Fongs"
 -- st_data["#cilantro_name"] 		 = "Cilantro"
-st_data["#cilantro_name"] 			 = ""
+st_data["#cilantro_name"] 			 = "Coriandre"
 -- st_data["#lettuce_name"] 		 = "Lettuce"
-st_data["#lettuce_name"] 			 = ""
+st_data["#lettuce_name"] 			 = "Enciam"
 -- st_data["#onions_name"] 			 = "Onions"
-st_data["#onions_name"] 			 = ""
+st_data["#onions_name"] 			 = "Cebes"
 -- st_data["#spicyflavorsauce_name"] = "Spicy Salsa"
-st_data["#spicyflavorsauce_name"] 	 = ""
+st_data["#spicyflavorsauce_name"] 	 = "Salsa picant"
 -- st_data["#beans_name"] 			 = "Beans"
-st_data["#beans_name"] 				 = ""
+st_data["#beans_name"] 				 = "Mongetes"
 -- st_data["#cheese_name"] 			 = "Cheese"
-st_data["#cheese_name"] 			 = ""
+st_data["#cheese_name"] 			 = "Formatge"
 -- st_data["#tortilla_name"] 		 = "Tortilla"
-st_data["#tortilla_name"] 			 = ""
+st_data["#tortilla_name"] 			 = "Tortilla"
 
 --[[-------------------------------------------------
 
@@ -275,49 +275,49 @@ st_data["#helltaintaco_name"] 		 = ""
 -- st_data["#guytaco_name"] 		 = "Guy Taco"
 st_data["#guytaco_name"] 			 = ""
 -- st_data["#chickentaco_name"] 	 = "Chicken Taco"
-st_data["#chickentaco_name"] 		 = ""
+st_data["#chickentaco_name"] 		 = "Taco de Pollastre"
 -- st_data["#cheesetaco_name"] 		 = "Cheese Taco"
-st_data["#cheesetaco_name"] 		 = ""
+st_data["#cheesetaco_name"] 		 = "Taco de Formatge"
 -- st_data["#enchilada_name"] 		 = "Cheese Enchilada"
-st_data["#enchilada_name"] 			 = ""
+st_data["#enchilada_name"] 			 = "Enchilada de formatge"
 -- st_data["#chickenenchilada_name"] = "Chicken Enchilada"
-st_data["#chickenenchilada_name"] 	 = ""
+st_data["#chickenenchilada_name"] 	 = "Enchilada de pollastre"
 -- st_data["#hoppertaco_name"] 		 = "Hopper Taco"
 st_data["#hoppertaco_name"] 		 = ""
 -- st_data["#pollotaco_name"] 		 = "Pollo Taco"
 st_data["#pollotaco_name"] 			 = ""
 -- st_data["#asadataco_name"] 		 = "Carne Asada Taco"
-st_data["#asadataco_name"] 			 = ""
+st_data["#asadataco_name"] 			 = "Taco de Carn a la brasa"
 -- st_data["#carnitastaco_name"] 	 = "Carnitas Taco"
-st_data["#carnitastaco_name"] 		 = ""
+st_data["#carnitastaco_name"] 		 = "Taco de Carnitas"
 -- st_data["#hoppertaco_2_name"] 	 = "Spicy Hopper Taco"
 st_data["#hoppertaco_2_name"] 		 = ""
 -- st_data["#moldtaco_name"] 		 = "Mold Taco"
-st_data["#moldtaco_name"] 			 = ""
+st_data["#moldtaco_name"] 			 = "Taco de fongs"
 -- st_data["#nothingtaco_name"] 	 = "Nothing Taco"
-st_data["#nothingtaco_name"] 		 = ""
+st_data["#nothingtaco_name"] 		 = "Taco buit"
 -- st_data["#speetertaco_name"] 	 = "Speeter Taco"
-st_data["#speetertaco_name"] 		 = ""
+st_data["#speetertaco_name"] 		 = "Taco Speeter"
 -- st_data["#anttaco_name"] 		 = "Ant Taco"
-st_data["#anttaco_name"] 			 = ""
+st_data["#anttaco_name"] 			 = "Taco de Formiga"
 -- st_data["#frogtaco_name"] 		 = "Frog Taco"
-st_data["#frogtaco_name"] 			 = ""
+st_data["#frogtaco_name"] 			 = "Taco de Granota"
 -- st_data["#zombie_name"] 			 = "Zombie Taco"
-st_data["#zombie_name"] 			 = ""
+st_data["#zombie_name"] 			 = "Taco Zombie"
 -- st_data["#supertaco_name"] 		 = "Super Taco"
-st_data["#supertaco_name"] 			 = ""
+st_data["#supertaco_name"] 			 = "Súper Taco"
 -- st_data["#deviledchickentaco_name"]  = "Deviled Chicken"
-st_data["#deviledchickentaco_name"]  = ""
+st_data["#deviledchickentaco_name"]  = "Pollastre a la Diabla"
 -- st_data["#catfishtaco_name"] 	 = "Catfish Taco"
-st_data["#catfishtaco_name"] 		 = ""
+st_data["#catfishtaco_name"] 		 = "Taco de Silur"
 -- st_data["#condorktaco_name"] 	 = "Condork Taco"
-st_data["#condorktaco_name"] 		 = ""
+st_data["#condorktaco_name"] 		 = "Taco de Condork"
 -- st_data["#shocktaco_name"] 		 = "Shock Taco"
 st_data["#shocktaco_name"] 			 = ""
 -- st_data["#menacingtaco_name"] 	 = "Menacing Taco"
 st_data["#menacingtaco_name"] 		 = ""
 -- st_data["#beartaco_name"] 		 = "Boombear Taco"
-st_data["#beartaco_name"] 			 = ""
+st_data["#beartaco_name"] 			 = "Taco d'Ós Explosiu"
 -- st_data["#modcattaco_name"] 		 = "Feline Taco"
 st_data["#modcattaco_name"] 		 = ""
 -- st_data["#spidertaco_name"] 		 = "8-Legged Taco"
@@ -329,59 +329,59 @@ RECIPE NAMES
 
 ---------------------------------------------------]]
 -- st_data["#recipebook-meats"] 			= "Meat Inventory"
-st_data["#recipebook-meats"] 			 	= ""
+st_data["#recipebook-meats"] 			 	= "Inventari de carn"
 -- st_data["#recipebook-condiments"] 		= "Topping Inventory"
-st_data["#recipebook-condiments"] 		 	= ""
+st_data["#recipebook-condiments"] 		 	= "Inventori d'extres"
 -- st_data["#fuzztaco_recipe"] 				= "Fuzz Taco Recipe"
-st_data["#fuzztaco_recipe"] 				= ""
+st_data["#fuzztaco_recipe"] 				= "Recepte de"
 -- st_data["#helltaintaco_recipe"] 			= "Helltain Taco Recipe"
 st_data["#helltaintaco_recipe"] 			= ""
 -- st_data["#guytaco_taco_recipe"] 			= "Guy Taco Recipe"
 st_data["#guytaco_taco_recipe"] 			= ""
 -- st_data["#chickentaco_recipe"] 			= "Chicken Taco Recipe"
-st_data["#chickentaco_recipe"] 				= ""
+st_data["#chickentaco_recipe"] 				= "Recepte de Taco de Pollastre"
 -- st_data["#cheesetaco_recipe"] 			= "Cheese Taco Recipe"
-st_data["#cheesetaco_recipe"] 				= ""
+st_data["#cheesetaco_recipe"] 				= "Recepte de Taco de Formatge"
 -- st_data["#enchilada_recipe"] 			= "Enchilada Recipe"
-st_data["#enchilada_recipe"] 				= ""
+st_data["#enchilada_recipe"] 				= "Recepte d'Enchilada"
 -- st_data["#chickenenchilada_recipe"] 		= "Chicken Enchilada Recipe"
-st_data["#chickenenchilada_recipe"] 		= ""
+st_data["#chickenenchilada_recipe"] 		= "Recepte d'Enchilada de Pollastre"
 -- st_data["#hopper_recipe"] 				= "Hopper Taco Recipe"
 st_data["#hopper_recipe"] 					= ""
 -- st_data["#pollotaco_recipe"] 			= "Pollo Taco Recipe"
 st_data["#pollotaco_recipe"] 				= ""
 -- st_data["#asadataco_recipe"] 			= "Carne Asada Taco Recipe"
-st_data["#asadataco_recipe"] 				= ""
+st_data["#asadataco_recipe"] 				= "Recepte de Taco de Carn a la brasa"
 -- st_data["#carnitastaco_recipe"] 			= "Carnita Taco Recipe"
-st_data["#carnitastaco_recipe"] 			= ""
+st_data["#carnitastaco_recipe"] 			= "Recepte de Taco de Carnitas"
 -- st_data["#hoppertaco_2_recipe"] 			= "Spicy Hopper Taco Recipe"
 st_data["#hoppertaco_2_recipe"] 			= ""
 -- st_data["#moldtaco_recipe"] 				= "Mold Taco Recipe"
-st_data["#moldtaco_recipe"] 				= ""
+st_data["#moldtaco_recipe"] 				= "Recepte de Taco de Fongs"
 -- st_data["#nothingtaco_recipe"] 			= "Nothing Taco Recipe"
-st_data["#nothingtaco_recipe"] 				= ""
+st_data["#nothingtaco_recipe"] 				= "Recepte de Taco Buit"
 -- st_data["#speetertaco_recipe"] 			= "Speeter Taco Recipe"
-st_data["#speetertaco_recipe"] 				= ""
+st_data["#speetertaco_recipe"] 				= "Recepte de Taco Speeter"
 -- st_data["#anttaco_recipe"] 				= "Ant Taco Recipe"
-st_data["#anttaco_recipe"] 					= ""
+st_data["#anttaco_recipe"] 					= "Recepte de Taco de Formiga"
 -- st_data["#frogtaco_recipe"] 				= "Frog Taco Recipe"
-st_data["#frogtaco_recipe"] 				= ""
+st_data["#frogtaco_recipe"] 				= "Recepte de Taco de Granota"
 -- st_data["#zombie_recipe"] 				= "Zombie Recipe"
-st_data["#zombie_recipe"] 					= ""
+st_data["#zombie_recipe"] 					= "Recepte Zombie"
 -- st_data["#supertaco_recipe"] 			= "Super Taco Recipe"
-st_data["#supertaco_recipe"] 				= ""
+st_data["#supertaco_recipe"] 				= "Recepte de Súper Taco"
 -- st_data["#deviledchickentaco_recipe"] 	= "Deviled Chicken Taco Recipe"
-st_data["#deviledchickentaco_recipe"] 		= ""
+st_data["#deviledchickentaco_recipe"] 		= "Recepte de Taco de Pollastre a la Diabla"
 -- st_data["#catfishtaco_recipe"] 			= "Catfish Taco Recipe"
-st_data["#catfishtaco_recipe"] 				= ""
+st_data["#catfishtaco_recipe"] 				= "Recepte de Taco de Silur"
 -- st_data["#condorktaco_recipe"] 			= "Condork Taco Recipe"
-st_data["#condorktaco_recipe"] 				= ""
+st_data["#condorktaco_recipe"] 				= "Recepte de Taco de Condork"
 -- st_data["#shocktaco_recipe"] 			= "Shock Taco Recipe"
 st_data["#shocktaco_recipe"] 				= ""
 -- st_data["#menacingtaco_recipe"] 			= "Menacing Taco Recipe"
 st_data["#menacingtaco_recipe"] 			= ""
 -- st_data["#beartaco_recipe"] 				= "Boombear Taco Recipe"
-st_data["#beartaco_recipe"] 				= ""
+st_data["#beartaco_recipe"] 				= "Recepte de Taco d'Ós Explosiu"
 -- st_data["#modcattaco_recipe"] 			= "Feline Taco Recipe"
 st_data["#modcattaco_recipe"] 				= ""
 -- st_data["#spidertaco_recipe"] 			= "8-Legged Taco Recipe"
@@ -393,23 +393,23 @@ STORY TEXT
 
 ---------------------------------------------------]]
 -- st_data["#intro_line_1"] 	= "It is the year 2020, and a scientist accidentally set off seven atomic bombs which mutated most of the animals and some humans."
-st_data["#intro_line_1"] 		= ""
+st_data["#intro_line_1"] 		= "És l'any 2020, i accidentalment un científic ha detonat set bombes atòmiques que han fet mutar la majoria d'animals i éssers humans."
 -- st_data["#intro_line_1a"] 	= "It is the year 2020,"
-st_data["#intro_line_1a"] 		= ""
+st_data["#intro_line_1a"] 		= "És l'any 2020,"
 -- st_data["#intro_line_1b"] 	= "and a scientist accidentally set off seven atomic bombs"
-st_data["#intro_line_1b"] 		= ""
+st_data["#intro_line_1b"] 		= "i accidentalment un científic ha detonat set bombes atòmiques"
 -- st_data["#intro_line_1c"] 	= "which mutated most of the animals and some humans."
-st_data["#intro_line_1c"] 		= ""
+st_data["#intro_line_1c"] 		= "que han fet mutar la majoria d'animals i éssers humans."
 -- st_data["#intro_line_2a"] 	= "You are a lone survivor of your family business."
-st_data["#intro_line_2a"] 		= ""
+st_data["#intro_line_2a"] 		= "Tu ets l'únic supervivent del negoci familiar."
 -- st_data["#intro_line_2b"] 	= "You need to get to Winnipeg, Canada where it is safe to re-establish the business and escape the disaster."
-st_data["#intro_line_2b"] 		= ""
+st_data["#intro_line_2b"] 		= "Necessites arribar a Winnipeg, Canadà on és segur restablir el negoci i escapar del desastre."
 -- st_data["#intro_line_3"] 	= "Also, they need more taco trucks in Canada."
-st_data["#intro_line_3"] 		= ""
+st_data["#intro_line_3"] 		= "A més, a Canadà, necessiten més camions de tacos."
 -- st_data["#intro_line_4"] 	= "To get there, fight your way to the safe zones. Collect meat from mutated animals, and sell tacos to other survivors in safe zones for money and buy upgrades for your truck."
-st_data["#intro_line_4"] 		= ""
+st_data["#intro_line_4"] 		= "Per arribar-hi, lluita pel camí cap a les zones segures. Aconsegueix carn dels animals mutants, i ven tacos a altres supervivents a les zones segures per diners i comprar millores pel camió."
 -- st_data["#intro_line_5"] 	= "You are..."
-st_data["#intro_line_5"] 		= ""
+st_data["#intro_line_5"] 		= "Tu ets..."
 
 --[[-------------------------------------------------
 
@@ -417,25 +417,25 @@ CUSTOMERS WAITING TOO LONG
 
 ---------------------------------------------------]]
 -- st_data["#waited_too_long_reponse_1"] 	= "I don't want to live on this planet anymore."
-st_data["#waited_too_long_reponse_1"] 		= ""
+st_data["#waited_too_long_reponse_1"] 		= "Ja no vull viure més en aquest planeta."
 -- st_data["#waited_too_long_reponse_2"] 	= "I have a shiv with your name on it..."
-st_data["#waited_too_long_reponse_2"] 		= ""
+st_data["#waited_too_long_reponse_2"] 		= "Tinc una navalla amb el teu nom escrit..."
 -- st_data["#waited_too_long_reponse_3"] 	= "We're now sworn enemies."
-st_data["#waited_too_long_reponse_3"] 		= ""
+st_data["#waited_too_long_reponse_3"] 		= "Ja som enemics declarats."
 -- st_data["#waited_too_long_reponse_4"] 	= "Sickening."
-st_data["#waited_too_long_reponse_4"] 		= ""
+st_data["#waited_too_long_reponse_4"] 		= "Nauseabund."
 -- st_data["#waited_too_long_reponse_5"] 	= "Wow, now I hate you."
-st_data["#waited_too_long_reponse_5"] 		= ""
+st_data["#waited_too_long_reponse_5"] 		= "Guau, ara t'odio."
 -- st_data["#waited_too_long_reponse_6"] 	= "This was all I had to look forward to in this world."
-st_data["#waited_too_long_reponse_6"] 		= ""
+st_data["#waited_too_long_reponse_6"] 		= "Aixö era tot el que havia d'esperar d'aquest mon."
 -- st_data["#waited_too_long_reponse_7"] 	= "You have to sleep sometime..."
-st_data["#waited_too_long_reponse_7"] 		= ""
+st_data["#waited_too_long_reponse_7"] 		= "Hauràs de dormir algun dia..."
 -- st_data["#waited_too_long_reponse_8"] 	= "Alert the presses - you're useless."
-st_data["#waited_too_long_reponse_8"] 		= ""
+st_data["#waited_too_long_reponse_8"] 		= "Alerta les premses - ets un inútil."
 -- st_data["#waited_too_long_reponse_9"] 	= "That's right, I came here for no reason. Good job."
-st_data["#waited_too_long_reponse_9"] 		= ""
+st_data["#waited_too_long_reponse_9"] 		= "És cert, he vingut sense cap motiu. Bona feina."
 -- st_data["#waited_too_long_reponse_10"]	= "I'll be telling the Micro Boy about this..."
-st_data["#waited_too_long_reponse_10"]		= ""
+st_data["#waited_too_long_reponse_10"]		= "Explicaré a la Micro Boy sobre això..."
 
 --[[-------------------------------------------------
 
@@ -443,25 +443,25 @@ CUSTOMERS TELLING YOU TO HURRY
 
 ---------------------------------------------------]]
 -- st_data["#panicky_dialog_1"] = "I'm hungry!"
-st_data["#panicky_dialog_1"] 	= ""
+st_data["#panicky_dialog_1"] 	= "Tinc gana!"
 -- st_data["#panicky_dialog_2"] = "Hurry!"
-st_data["#panicky_dialog_2"] 	= ""
+st_data["#panicky_dialog_2"] 	= "De pressa!"
 -- st_data["#panicky_dialog_3"] = "Ain't got all day."
-st_data["#panicky_dialog_3"] 	= ""
+st_data["#panicky_dialog_3"] 	= "No tinc tot el dia."
 -- st_data["#panicky_dialog_4"] = "I'm in a rush, pal."
-st_data["#panicky_dialog_4"] 	= ""
+st_data["#panicky_dialog_4"] 	= "Me n'he d'anar volant, amic."
 -- st_data["#panicky_dialog_5"] = "Taking your time?"
-st_data["#panicky_dialog_5"] 	= ""
+st_data["#panicky_dialog_5"] 	= "Et faig perdre el temps?"
 -- st_data["#panicky_dialog_6"] = "Seriously? I can't believe this."
-st_data["#panicky_dialog_6"] 	= ""
+st_data["#panicky_dialog_6"] 	= "De debò? No m'ho puc creure."
 -- st_data["#panicky_dialog_7"] = "What's wrong with you?"
-st_data["#panicky_dialog_7"] 	= ""
+st_data["#panicky_dialog_7"] 	= "Què et passa_"
 -- st_data["#panicky_dialog_8"] = "Come on, hurry up!"
-st_data["#panicky_dialog_8"] 	= ""
+st_data["#panicky_dialog_8"] 	= "Vinga, espavila!"
 -- st_data["#panicky_dialog_9"] = "Why are you taking forever?"
-st_data["#panicky_dialog_9"] 	= ""
+st_data["#panicky_dialog_9"] 	= "Per què estàs trigant una eternitat?"
 -- st_data["#panicky_dialog_10"] = "I can't believe it's taking this long!"
-st_data["#panicky_dialog_10"] 	= ""
+st_data["#panicky_dialog_10"] 	= "No em puc creure que estiguis trigant tant!"
 
 --[[-------------------------------------------------
 
@@ -469,9 +469,9 @@ CUSTOMER IMPRESSED
 
 ---------------------------------------------------]]
 -- st_data["#customer_unlock_speech"] 			= "You know, you really impressed me. Here, a recipe handed down from my family."
-st_data["#customer_unlock_speech"] 				= ""
+st_data["#customer_unlock_speech"] 				= "Saps, m'has impressionat. Té, una recepta que ve de familia."
 -- st_data["#complainer_stubborn_response"] 	= "REALLY??? YOU ALREADY SCREWED UP MY ORDER! DO IT RIGHT!"
-st_data["#complainer_stubborn_response"] 		= ""
+st_data["#complainer_stubborn_response"] 		= "DE DEBÒ??? HAS DESTROSSAT LA MEVA COMANDA! FES-HO BÉ!"
 
 --[[-------------------------------------------------
 
@@ -481,137 +481,137 @@ CUSTOMERS LEAVING IN ANGER
 st_data["#customer-leaving-single"] =
 {
 --		"I've had enough of this taco injustice.",
-		"",
+		"Ja n'he tingut prou d'aquesta injustícia.",
 --		"I'm going to make my own tacos out of trash and tears.", 
-		"",
+		"Vaig a fer-me els meus propis tacos de porqueria i llàgrimes.",
 --		"I'd rather run around as a mutant than deal with substandard tacos.", 
-		"",
+		"Prefereixo córrer al voltant com un mutant que menjar amb aquests tacos lamentables.",
 --		"Just you wait until mother hears about this!", 
-		"",
+		"Només espera que ta mare escolti sobre això!",
 --		"I'm going to go over there and seethe with rage.", 
-		"",
+		"Aniré cap allà i bulliré de ràbia.",
 --		"I thought you were the taco master? I have been living a lie!", 
-		"",
+		"I jo que pensava que tu erets el mestre dels tacos. He viscut una mentida!",
 --		"You make me sick. You're not even prepared. I'm out." ,
-		"",
+		"Em poses malalt. No estàs preparat. Marxo.",
 --		"I'll go out there and make my own tacos out of live mutants! I don't need you." ,
-		"",
+		"Anirè allà fora i em faré els meus propis tacos de muntats vius! No et necessito.",
 --		"Well, that's the last time I ask you for a taco. You can't even make them right." ,
-		"",
+		"Bé, és l'última vegada que et demano tacos. Ets incapaç de fer-los bé.",
 --		"Go back to San Diego where you belong!" ,
-		"",
+		"Torna cap a San Diego que és ón pertanys!",
 --		"I'm leaving - your inability to make tacos just sickens me. " ,
-		"",
+		"Marxo - la teva inaptitud per cuinar tacos em posa malalt.",
 --		"Why can't you just make my order? I've had enough. I'm gone." ,
-		"",
+		"Per què ets incapaç de fer la meva comanda? Ja en tinc prou. Marxo.",
 --		"I can't understand your refusal to make me a taco. One simple taco." ,
-		"",
+		"No puc entendre per què no pots cuinar un taco. Un sencill taco.",
 --		"I just asked for a taco. Just one. And you can't even handle doing that." ,
-		"",
+		"Només he demanat un taco. Un. I ets incapaç de fer-ho.",
 --		"Are you even Mexican? You're supposed to be able to make great food from nothing." ,
-		"",
+		"Ets tan sols Mexicà? Se suposa que hauries de ser capaç de cuinar bon menjar del no res.",
 --		"Do you even cook? I don't think so. You can't make a simple taco for me." ,
-		"",
+		"Has cuinat mai? Crec que no. No ets capaç de fer ni un sencill taco.",
 --		"Incredible. You can't do anything. So upsetting." ,
-		"",
+		"Increïble. Ets incapaç de fer res. Pertorbador.",
 --		"Having trouble reading that little taco book? Looks like it." ,
-		"",
+		"Tens problemes llegint aquest llibret de receptes? Ho sembla.",
 --		"I'm getting out of this dump. You stink it up with your non-taco-making!" ,
-		"",
+		"Marxo d'aquest abocador. Puts a ineficàcia.",
 --		"Have fun keeping that truck together after my bomb blows it apart! See ya!" ,
-		"",
+		"Passa-t'ho bé arreglant el camió després que la meva bomba el destrossi! A reveure!",
 --		"You should go back to prison for that failure." ,
-		"",
+		"Hauries de tornar a la presó després d'aquest fracàs.",
 --		"Even without making me a taco you're making me throw up." ,
-		"",
+		"Inclús sense fer-me un taco ja m'estàs fent vomitar.",
 --		"What I saw in that taco truck makes me sick. An awful performance." ,
-		"",
+		"El que he vist en aquest camió de tacos m'ha posat malalt. Una actuació lamentable.",
 --		"I'm telling all the other towns not to bother waiting for you." ,
-		"",
+		"Explicaré als altres pobles que no cal que es molestin esperan-te.",
 --		"Welp, that's enough of that. You're total clownshoes." ,
-		"",
+		"Ja n'hi ha prou, ets un incompetent.",
 --		"Hey, donkeyshoes - go back to Mexican school and learn the simple craft of taco-making." ,
-		"",
+		"Ei, cap de suro, torna a l'escola Mexicana i aprèn a cuinar la sencilla recepte del taco.",
 --		"So, now I'm disgusted. You're a sham. No taco for me, no dollars for you." ,
-		"",
+		"Estic disgustat. Ets una farsa. No hi ha tacos per a mi, no hi ha dòlars per a tu.",
 --		"ONE TACO! YOU CAN'T EVEN MAKE ME ONE TACO? That's enough of that - I'm gone." ,
-		"",
+		"UN TACO! ETS INCAPAÇ DE FER-ME UN TACO? Ja n'hi ha prou - Marxo.",
 --		"I should bash your truck into pieces. You refuse to make me a taco. You're horrible!" ,
-		"",
+		"Hauria de destrossar-te el camió. No vols fer-me un taco. Ets horrible!",
 --		"I'm just going to eat whatever's out beyond this town, I'm starving so bad!" ,
-		"",
+		"Marxaré a menjar a qualsevol lloc fora del poble, m'estic morint de gana!",
 --		"I'm going to stumble away, starving, and die a horrible death soon." ,
-		"",
+		"Estic a punt de desmaiar-me mort de gana i tindré una mort horrible.",
 --		"First, no taco. Then, you leave town and turn me into a skeleton. What a life." ,
-		"",
+		"Primer, sense taco. Després, tu marxes del poble i em deixes fet un esquelet. Quina vida.",
 --		"I should come in there and smash up the inside of that truck." ,
-		"",
+		"Hauria d'haver entrat i destrossar-te el camió.",
 --		"I'm shaking with non-taco-eating terror. I know the end is near for me!" ,
-		"",
+		"Estic tremolant sense el meu taco. Sé que arriba el meu final!",
 }
 
 st_data["#customer-leaving-multiple"] =
 {
 --		"We've had it up to here with your incompetence!",
-		"",
+		"Fins aquí hem arribat amb la teva incompetència.",
 --		"We have talked it over and are in agreement. Your tacos are a joke. Goodbye.",
-		"",
+		"Hem estat parlant i estem d'acord. Els teus tacos son una broma. Adéu. ",
 --		"We survived the apocalypse for what? Crappy service? I don't think so.",
-		"",
+		"Per a què hem sobreviscut a l'apocalipsi? Per tenir un servei horrible? No ho crec.",
 --		"Let's leave before we get disappointed again.",		
-		"",
+		"Marxem abans no ens defraudi una altra vegada.",
 --		"You are a failure in our eyes. A massive taco failure.",		
-		"",
+		"Ets un fracàs. Un fracàs massiu de tacos.",
 --		"We're going to learn how to make tacos ourselves since you can't.",
-		"",
+		"Ja aprendrem a cuinar tacos nosaltres ja que tu no pots.",
 --		"Hey, let's get out of here and leave the taco joke to die on the highway.",
-		"",
+		"Ei, marxem d'aquí i deixem morir aquesta broma a l'autopista.",
 --		"We should come in there and take you apart. But, no, we're more civilized than that.",
-		"",
+		"Hauríem d'entrar i trencar-ho tot. Però no, som més civilitzats que això.",
 --		"We've come to the conclusion that you need to get back to San Diego. Go back and learn.",
-		"",
+		"Hem arribat a la conclusió que has de tornar a San Diego. Torna i aprèn.",
 --		"We live near radioactive waste and drink nuclear water for what? For no tacos?",
-		"",
+		"Vivim aprop de fems radioactius i bebem aigua nuclear per a què? Per no tenir tacos?",
 --		"Let's get out of this place - the taco savior is a taco clown.",
-		"",
+		"Marxem d'aquí - el salvador dels tacos és un pallasso.",
 --		"We're leaving to make sure the highway mutants know you're coming. They'll take care of ya.",
-		"",
+		"Marxem per assegurar-nos que els mutants saben que estàs arribant. Ja s'ocuparan de tu.",
 --		"We are barely alive and you refuse to serve just one taco each? You're a disappointment.",
-		"",
+		"Estem vius de miracle i tu ets incapaç de fer-nos un taco? Ets decebedor.",
 --		"We have formed a committee and voted to leave this no-taco town.",
-		"",
+		"Hem format un comité i hem votat que marxis d'aquest poble.",
 --		"We're leaving and you're getting no more money, how do you like that?",
-		"",
+		"Marxem i et quedes sense diners, t'agrada?",
 --		"You're not worth the asphalt your truck is parked on. We're going to leave town.",
-		"",
+		"No mereixes l'asfalt on està aparcat el teu camió. Marxarem del poble.",
 --		"You think you're awesome because you can make tacos? Thing is: we know you can't make tacos.",
-		"",
+		"Et penses que ets impressionant per què saps cuinar tacos? El tema és: sabem que no saps cuinar tacos.",
 --		"We saw how you scrambled around in there to find ingredients. Stock up next time, loser.",
-		"",
+		"Vam veure tot el que vas fer per aconseguir ingredients. La propera vegada, te'ls guardes, perdedor.",
 --		"That's it - we're going over to Burrito Barn. Better than no tacos at all.",
-		"",
+		"Ja està - anirem cap al graner dels Burritos. Millor que estar sense tacos.",
 --		"How about we come in there and teach you a lesson about not serving tacos?",
-		"",
+		"Què et sembla si venim i t'ensenyem una lliço sobre no servir tacos?",
 --		"How about we build a wall around your sad taco truck? We'll make Mexico pay for it.",
-		"",
+		"Què et sembla si construïm un mur al voltant del teu trist camió? Farem que Mèxic el pagui.",
 --		"We're going to wrangle up a Hellshocker to come teach you a lesson, taco puke.",
-		"",
+		"Anirem a buscar un Hellshocker per a que t'ensenyi una lliçó, ets vomitiu.",
 --		"We're going out to round up a Boom Bear so he can hop on your truck and blow it to pieces.",
-		"",
+		"Anirem a buscar un Ós Explosiu per a que salti a sobre del teu camió i el faci miques.",
 --		"Let's go find a Spider Mama, bring it back, and teach this bozo a hilarious lesson!",
-		"",
+		"Anem a buscar una Aranya Mare, la portarem, i t'ensenyerem una lliçó molt divertida!",
 --		"We're leaving. It's a hit on your wallet. No tacos, no dollars.",
-		"",
+		"Marxem. És un cop a la teva cartera. Sense tacos, no hi ha diners.",
 --		"We're mad enough to bring back a stampede of Speeters to decimate your truck!",
-		"",
+		"Estem tant emprenyats que som capaços de portar una estampida d'Speeters per destrossar el teu camió!",
 --		"Let's go find a few Condorks to bomb this idiot's truck!",
-		"",
+		"Anem a buscar uns quants Condorks per bomberdajer el camió d'aquest idiota!",
 --		"We think Weird Arm Jones could teach you a lesson or two about refusing service!",
-		"",
+		"Pensem que Mike Tyson et podria ensenyar una o dues lliçons sobre rebutjar serveis!",
 --		"We wanna TACO 'bout your inability to make us our favorite food!",
-		"",
+		"Volem TACOS pero ets incapaç de fer-nos el nostre menjar preferit!",
 --		"We'll just make our way down to Mexico where they can actually make tacos.",
-		"",
+		"Anirem fent via cap a Mèxic ón si saben fer tacos.",
 }
 
 --[[-------------------------------------------------
@@ -652,55 +652,55 @@ IMPATIENT CUSTOMERS
 st_data["#customer-impatient"] = 
 {
 --		"Hurry up! I need tacos!",
-		"",
+		"Corre! Necessito tacos!",
 --		"I don't have all day, you know",
-		"",
+		"No tinc tot el dia, ja saps",
 --		"Can you open up your truck? Pretty please?",
-		"",
+		"Pots obrir el teu camió? Si us plau?",
 --		"I'd love to eat something. Some day.",
-		"",
+		"M'encantaria menjar alguna cosa. Algun dia.",
 --		"Let's get those tacos cooking!",
-		"",
+		"Comencem a cuinar els tacos!",
 --		"Looking forward to hearing some Mexi-tunes.",
-		"",
+		"Mirant endavant per sentir algunes cançons mexicanes.",
 --		"That salsa is going to taste great.",
-		"",
+		"Aquesta salsa té molt bona pinta.",
 --		"I can't wait to crunch into a taco.",
-		"",
+		"No puc esperar per mossegar un taco.",
 --		"My stomach has waited long enough.",
-		"",
+		"La meva panxa ja ha esperat prou.",
 --		"Taco maker, could you open up now?",
-		"",
+		"Cuiner, pots obrir ja?",
 --		"You know you're the only taco maker around.",
-		"",
+		"Tu saps que ets l'únic cuiner de tacos de les rodalies.",
 --		"Starving! Open up, now!",
-		"",
+		"Em moro de gana! Obre ja!",
 --		"Could you maybe just start cooking tacos?",
-		"",
+		"Podries començar a cuinar els tacos?",
 --		"I'd love to wait another week but I'm dying.",
-		"",
+		"M'encantaria esperar una altra setmana, pero m'estic morint.",
 --		"If I don't eat soon, vultures will be eating me.",
-		"",
+		"Si no menjo aviat, els voltors se'm menjaran a mi.",
 --		"So, yeah, I'm really hungry. You're the cure.",
-		"",
+		"Si, ehm, em moro de gana. I tu ets la cura!",
 --		"Tacos would be life-saving at this point.",
-		"",
+		"Els tacos son uns salvavides.",
 --		"I don't know why you just sit there.",
-		"",
+		"No entenc per què estàs aquí assegut.",
 --		"Are you reading your little taco book?",
-		"",
+		"Estàs llegint el teu llibret de tacos?",
 --		"Your Mom called. She says to make tacos.",
-		"",
+		"Ha trucat la teva mare. Diu que facis tacos.",
 --		"Jocco says to hurry. He wants to sell stuff.",
-		"",
+		"Jocco diu que espabilis, que vol vendre coses.",
 --		"At some point I'm going to fall over.",
-		"",
+		"En algun moment em desmaiaré.",
 --		"I'd eat the store sign if I could. Starving.",
-		"",
+		"M'hagués menjat el lletrero de la botiga si hagués pogut. Em moro de gana.",
 --		"Kinda sick of wondering why you're not cooking.",
-		"",
+		"Per quins set sous encara no estàs cuinant?",
 --		"Why don't you help us... help you?"
-		"",
+		"Per què no ens ajudes ... ?",
 }
 
 
@@ -710,7 +710,7 @@ NO MORE CUSTOMERS
 
 ---------------------------------------------------]]
 -- st_data["#no-more-customers"] = "There are no customers left!"
-st_data["#no-more-customers"] = ""
+st_data["#no-more-customers"] = "No hi ha més clients!"
 
 --[[-------------------------------------------------
 
@@ -1242,22 +1242,22 @@ TacoAdviser REVIEWS
 
 ---------------------------------------------------]]
 -- st_data[ "#tacoadvisor" ] = "TacoAdvisor Review:"
-st_data[ "#tacoadvisor" ] 	= ""
+st_data[ "#tacoadvisor" ] 	= "Revisió TacoAdvisor:"
 
 st_data[ "#happy_reviews" ] = 
 {
 --		"Unbelievable. Best taco ever. My miserable life pales next to this almighty corn glory.",
-	"",
+	"Increïble. És el millor taco del món. La meva vida empal·lideix al costat d'aquesta glòria de blat omnipotent.",
 --		"The best ever. I love this taco truck and taco maker! Please come back.",
-	"",
+	"El millor. Estic enamorat d'aquest camió de tacos i del cuiner! Si us plau, torna.",
 --		"A+ service. This Mexican really knows how to fry a taco Sonoran-style! Love it!",
-	"",
+	"Excel·lent servei. Aquest Mexicà si sap cuinar a l'estil de Sonora! M'encanta!",
 --		"Best tacos ever! I want to have this everyday for the rest of my life.",
-	"",
+	"Els millors tacos! Vull repetir el dia d'avui per la resta de la meva vida.",
 --		"If you can find this truck do not miss out. Best tacos in the ruined U.S.A.",
-	"",
+	"Si pots trobar aquest camió de tacos, no te'l perdis. Els millors tacos d'aquests Estats Units arruïnats.",
 --		"This is one awesome Mexican! Check out the delicious Speeter Taco. Also love them freaking out behind the wheel.",
-	"",
+	"Un Mexicà impressionant! Tasta el deliciós Taco Speeter. També m'encanta que es torni boig al volant.",
 --		"His Helltain Tacos are to die for - absolutely my favorite!\nI want to kiss that taco creationist.",
 	"",
 --		"The Zombie Taco is undead, I mean, unreal! This is the best taco truck ever.",
