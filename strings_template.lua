@@ -425,9 +425,9 @@ st_data["#waited_too_long_reponse_3"] 		= "Ja som enemics declarats."
 -- st_data["#waited_too_long_reponse_4"] 	= "Sickening."
 st_data["#waited_too_long_reponse_4"] 		= "Nauseabund."
 -- st_data["#waited_too_long_reponse_5"] 	= "Wow, now I hate you."
-st_data["#waited_too_long_reponse_5"] 		= "Guau, ara t'odio."
+st_data["#waited_too_long_reponse_5"] 		= "Uau, ara t'odio."
 -- st_data["#waited_too_long_reponse_6"] 	= "This was all I had to look forward to in this world."
-st_data["#waited_too_long_reponse_6"] 		= "Aixö era tot el que havia d'esperar d'aquest mon."
+st_data["#waited_too_long_reponse_6"] 		= "Això era tot el que havia d'esperar d'aquest mon."
 -- st_data["#waited_too_long_reponse_7"] 	= "You have to sleep sometime..."
 st_data["#waited_too_long_reponse_7"] 		= "Hauràs de dormir algun dia..."
 -- st_data["#waited_too_long_reponse_8"] 	= "Alert the presses - you're useless."
@@ -630,17 +630,17 @@ st_data[ "#slot-names" ] =
 	-- "SLOT-O-FUN",
 	"",
 	-- "REEL TACOS",
-	"",
+	"TACOS EMBOLICATS",
 	-- "ENCHISLOTA",
-	"",
+	"ENCHISLOTA",
 	-- "WILD TACOS",
-	"",
+	"TACOS SALVATGES",
 	-- "FOOD FUN",
-	"",
+	"MENJAR DIVERTIT",
 	-- "REEL FOOD",
-	"",
+	"MENJAR EMBOLICAT",
 	-- "SPIN-VEG",
-	"",
+	"VERDURA ",
 }
 
 
@@ -1488,17 +1488,17 @@ st_data["#weird-arms"] 			= ""
 -- st_data["#menacer"] 			= "Menacer"
 st_data["#menacer"] 			= "Menacer"
 -- st_data["#redeye-batter"] 	= "Redeye Batter"
-st_data["#redeye-batter"] 		= ""
+st_data["#redeye-batter"] 		= "Talús Ulls Vermells"
 -- st_data["#cretin"] 			= "Cretin"
 st_data["#cretin"] 				= "Cretí"
 -- st_data["#scavenger"] 		= "Scavenger"
 st_data["#scavenger"] 			= "Abocador"
 -- st_data["#scav-bomber"] 		= "Dynamite Scavenger"
-st_data["#scav-bomber"] 		= ""
+st_data["#scav-bomber"] 		= "Scavenger Dinamita"
 -- st_data["#scav-chainsaw"]	= "Chainsaw Scavenger"
-st_data["#scav-chainsaw"]		= ""
+st_data["#scav-chainsaw"]		= "Scanvenger Motoserra"
 -- st_data["#scav-mobile"]		= "Scavenger Mobile"
-st_data["#scav-mobile"]			= ""
+st_data["#scav-mobile"]			= "Scavenger Móbil"
 -- st_data["#speeter"] 			= "Speeter"
 st_data["#speeter"] 			= "Speeter"
 -- st_data["#speeter-boss"] 	= "Speeter Daddy"
@@ -1878,135 +1878,135 @@ TOWN FACTS
 st_data[ "#town_facts" ] = 
 {
 	-- "The world's oldest active sailing ship, the Star of India, was built in 1863 and San Diego is its homeport.",
-	"El vaixell actiu més antic del món, la Estrella de la Índia, va ser construit al 1863 i San Diego és el seu port base.",
+	"El vaixell actiu més antic del món, la Estrella de la Índia, va ser construit el 1863 i San Diego és el seu port base.",
 	-- "Phoenix basks in sunshine more often than any other major metropolitan area in the U.S.",
-	"",
+	"A Phoenix es pren més el sol que a qualsevol altra ciutat metropolitana dels Estats Units.",
 	-- "Aside from the Amazon Rainforest, Tucson is home to more bird species than any other region on earth.",
-	"",
+	"A part de la Selva Tropical de l'Amazones, Tucson és la llar de més espècies d'aus que en qualsevol altra regió de la terra.",
 	-- "El Paso Street is the city’s first street and is old enough to have seen the likes of Wyatt Earp, Billy the Kid among others.",
-	"",
+	"El carrer El Paso és el primer carrer de la ciutat i és tant antic que ha vist en Wyatt Earp i en Billy el Nen entre d'altres.",
 	-- "Austin has been the site of human habitation since at least 9200 BC.",
-	"",
+	"Austin ha estat habitat pels humans almenys des del 9200 A.C.",
 	-- "Dallas/Fort Worth International Airport is the third busiest in the world, and is larger than Manhattan Island.",
-	"",
+	"L'aeroport internacional Fort Worth de Dallas és el tercer amb més volum de trànsit del món, i és més gran que la illa de Manhattan.",
 	-- "In the summer of 1947, something crash landed here. Officials from the Air Force claim it was a weather balloon from Project MOGUL, others say it was a UFO.",
-	"",
+	"A l'estiu del 1947, alguna cosa es va estavellar aquí. Oficials de la Força Armada van afirmar que era un globus meteorològic del Projecte MOGUL, altres diuen que vas ser un OVNI.",
 	-- "Albuquerque was founded in 1706, when Spain established a military presidio as the Spanish colonial outpost of Ranchos de Albuquerque.",
-	"",
+	"Albuquerque va ser fundada el 1706, quan Espanya va establir-hi una presó militar a l'avançada colonial de Ranchos de Albuquerque.",
 	-- "During its early years, Dodge City acquired its infamous stamp of lawlessness and gun-slinging as there was no local law enforcement.",
-	"",
+	"Durant els seus primers anys, Dodge City va adquirir la seva mala fama d'il·legalitat i perillositat ja que no hi havia policia local.",
 	-- "Oklahoma was once found near the equator, and was a hot and dry place — during the Triassic Period (206 to 248 million years ago).",
-	"",
+	"Oklahoma va ser fundada una vegada a prop de l'Equador, i era un lloc sec i caloròs - durant el Periode Triàsic (206 a 248 milions d'anys enrere)",
 	-- "The region that is now the city of Jackson was historically part of the large territory occupied by the Choctaw Nation for thousands of years.",
-	"",
+	"La regió que ara es coneix com la ciutat de Jackson historicament va ser part de l'ampli territori ocupat durant milions d'anys per la Nació Choctaw.",
 	-- "Little Rock is the place that gave America the “cheese dog” in 1956.",
-	"",
+	"Little Rock és el lloc que va donar a Amèrica el Frankfurt de formatge el 1956.",
 	-- "Nashville was founded on Christmas Eve 1779, and was the first city in the USA to be granted an FM-broadcasting license in 1941.",
-	"",
+	"Nashville va ser fundada la nit de Nadal de 1779, i va ser la primera ciutat dels Estats Units en obtenir una llicència de ràdio FM al 1941.",
 	-- "Before being known by its current name, Orlando was called Jernigan after the first permanent settler in the area.",
-	"",
+	"Abans que es conegués pel seu nom actual, Orlando s'anomenava Jernigan abans dels primers assentaments a l'àrea.",
 	-- "Atlanta was the only city in North America destroyed as an act of war. General Sherman burnt it to the ground.",
-	"",
+	"Atlanta va ser la única ciutat de Nord Amèrica destruïda en un acte de guerra. El General Sherman la va cremar sencera.",
 	-- "Charlotte was named in honor of Charlotte of Mecklenburg-Strelitz, who had become Queen of Great Britain 7 years before the city was founded in 1768.",
-	"",
+	"Charlotte té el nom en honor a Charlotte de Mecklenburg-Strelitz, que va ser Reina de la Gran Bretanya 7 anys abans que la ciutat es fundes el 1768.",
 	-- "The Capitol Building was originally designed as the tomb for Governor Montfort Stokes’s wife but was built at the wrong scale.",
-	"",
+	"El Capitoli va ser dissenyat originalment per ser la tomba de la dona Governador Montfort Stoke però va ser construït amb una escala equivocada.",
 	-- "Daniel Boone and his wife Rebecca were buried in the Frankfort Cemetery in 1813 (Rebecca) and 1820 (Daniel).",
-	"",
+	"Daniel Boone i la seva dona Rebecca van ser enterrats al Cementiri de Frankfort el 1813 (Rebecca) i 1820 (Daniel).",
 	-- "The U.S. Constitution provided for a federal district for the capitol and it is therefore not a part of any U.S. state.",
-	"",
+	"La Constitució dels Estats Units constitueix el Capitoli com un districte federal i per tant no forma part de cap estat dels Estats Units.",
 	-- "New York City is the most populous city in the United States and was founded in 1624 by Dutch traders.",
-	"",
+	"La ciutat de Nova York és la ciutat més poblada dels Estats Units i va ser fundad el 1624 per comerciants alemanys",
 	-- "The first settlement was called Lynn's Village in 1639. In 1644, the town was renamed to Reading, taken from the town of Reading in England.",
-	"",
+	"El primer assentament va ser anomenat Lynn's Village el 1639. Al 1644, la ciutat va ser anomenada Reading, del mateix nom que la ciutat Reading d'Anglaterra.",
 	-- "Half of the residents of the United States live within 500 miles of Columbus.",
-	"",
+	"La meitat dels residents dels Estats Units viuen a una distància de 800 km.",
 	-- "The world's first skyscraper, the Home Insurance Company, was built here in 1885.",
-	"",
+	"El primer gratacels del món, de la companyia Home Insurance Company, va ser construït aquí el 1885.",
 	-- "Lewis and Clark raised the United States flag in Pierre as part of their 1804-06 expedition through the future state capital.",
-	"",
+	"Lewis i Clark van hissar la bandera dels Estats Units a Pierre com a part de l'expedició feta entre el 1804 - 1806 a través de la futura capital de l'estat.",
 	-- "Burial mounds in present-day Indian Mounds Park suggest that the area was originally inhabited by the Hopewell Native Americans about 2,000 years ago.",
-	"",
+	"Túmuls en l'actual Indian Mounds Park suggereixen que l'àrea va ser originalment habitada pels americans nadius Hopewell fa uns 2.000 anys.",
 	-- "Bismarck was established in 1872 and was originally named ‘Edwinton’, but within a year was renamed after Otto Von Bismark, the German chancellor.",
-	"",
+	"Bismarck va ser fundada el 1872 i originalment es deia 'Edwinton', pero durant el primer any va ser renombrada per Otto Von Bismark, el Canceller Alemany.",
 	-- "Miles City is known as the Cow Capital of the West, where cowboy traditions live on.",
-	"",
+	"Miles City és coneguda com la Capital de la Vaca de l'Oest, on les tradicions vaqueres segueixen vives.",
 	-- "Seattle is a derivative of the Indian name “Sealth.” Sealth was a chief of the Suquamish tribe at the time the first white settlers arrived in 1851.",
-	"",
+	"Seattle és un derivat del nom Indi 'Sealth'. Sealth va ser un cap de la tribu Suquamish durant el temps que els primers assentaments van arribar el 1851.",
 	-- "In 1863, Fort Boise was established and quickly became a destination for pioneers on the Oregon Trail.",
-	"",
+	"Al 1863, Fort Boise va ser establerta i ràpidament va ser destinació per els pioners de la Ruta Oregon.",
 	-- "Medford was chosen as the site for a city and was designed in 1883. It became official in 1885.",
-	"",
+	"Medford va ser escollida com el lloc d'una ciutat i va ser dissenyada el 1883. Va ser oficial el 1885.",
 	-- "The original claim for the land encompassing Chico was challenged all the way to the Supreme Court.",
-	"",
+	"La demanda original de la terra que abasta Chico, va ser desafiada fins a la Cort Suprema.",
 	-- "The entire world's supply of Colorado Rose Onyx was used in the Colorado State Capitol in 1894, and no more has ever been found.",
-	"",
+	"El subministrament mundial del Onyx Rosa de Colorado va ser utilizat per el Capitoli Estatal de Colorado el 1894, i mai se n'ha trobat més.",
 	-- "The city was founded by developers in 1889 as an anticipated stopping point during the expansion of the Wyoming Central Railway.",
-	"",
+	"La ciutat va ser fundad per desenvolupadors el 1889 com un punt de parada previst durant l'expansió de l'Estació Central de Wyoming.",
 	-- "Salt Lake City was home to the first Kentucky Fried Chicken franchise. It features one of the Colonel's original white suits.",
-	"",
+	"Salt Lake City va ser la llar de la primera franquícia de Kentucky Fried Chicken i compta amb un dels vestits blancs originals del Coronel.",
 	-- "Several prehistoric occupation areas have been identified by archeologists in downtown Des Moines.",
-	"",
+	"Diverses àrees d'ocupació prehistòriques han estat identificades pels arqueòlegs al centre de Des Moines.",
 	-- "The raisin industry was started in Fresno accidentally when some grapes were mistakenly allowed to dry on the vines.",
-	"",
+	"La indústria de panses es va iniciar a Fresno accidentalment quan alguns raïms es van quedar assencant-se a les vinyes.",
 	-- "In pre-Columbian times, this region was home of an ancient people known only as the 'Mound Builders'.",
-	"",
+	"En l'època precolombina, aquesta regió va ser la llar d'un poble antic conegut com els 'Constructors de Monticles'",
 	-- "Winnipeg derives its name from the Cree word of “win” for muddy and “nippee” for water.",
-	"",
+	"Winnipeg deriva el seu nom de la paraula Cree 'win' que vol dir enfangat i 'nippee' que vol dir aigua.",
 	-- "Legendary computer game company, Sir-Tech, was founded here in 1981 and produced the award-winning Wizardry series of RPGs.",
-	"",
+	"La llegendària companyia de videojocs Sir-Tech va ser fundada aquí el 1981 i va produïr la llargament premiada sèrie de RPG Wizardry.",
 	-- "The Penobscot people have inhabited the area around present-day Bangor for at least 11,000 years.",
-	"",
+	"Els habitants de Penobscot han viscut a l'àrea de l'actual Bangor durant almenys 11.000 anys.",
 	-- "Las Vegas was named by Mexicans in the Antonio Armijo party in 1829. Armijo was a Mexican merchant who established the trade route to Los Angeles.",
-	"",
+	"Las Vegas va ser anomenada pels mexicans a la festa d'Antonio Armijo el 1829. Armijo va ser un comerciant mexicà que va establir la ruta comercial a Los Angeles.",
 	-- "A local sign reads “This is the town founded by a jackass and inhabited by his descendants.“ Prospector Noah Kellogg's donkey wandered and found the area in 1885.",
-	"",
+	"Una senyal local posa 'Aquesta és la ciutat fundada per un ruc i habitada pels seus descendents'. L'ase de l'explorador Noah Kellogg va posar-se a dormir allà el 1885. ",
 	-- "Elko lies along the route of the historic California Trail and was first inhabited in 1868. It was named by Charles Crocker because he liked elk.",
-	"",
+	"Elko es troba al llarg de la ruta de la històrica Califòrnia Trail i va ser habitada per primera vegada el 1868. Va ser nomenat per Charles Crocker perquè li agradaven els ants.",
 	-- "By the time white explorers first entered the region during the Lewis and Clark Expedition in 1805, they encountered the Nez Perce, Crow, and Shoshone tribes.",
-	"",
+	"En el moment en que els primers exploradors blancs van entrar a la regió durant l'expedició de Lewis i Clark el 1805, es van trobar amb les tribus de Nez Perce, Crow, i Shoshone.",
 	-- "Old Kansas City was incorporated in October 1872. It lies near the geographical center of the country.",
-	"",
+	"La vella Kansas City va ser incorporada a l'Octubre de 1872. Està a prop del centre geogràfic del país.",
 	-- "North Platte was established in 1868 when the Union Pacific Railroad was extended to that point. It was named from the North Platte River.",
-	"",
+	"North Platte es va establir el 1868 quan el ferrocarril Union Pacific es va estendre fins aquest punt. Va ser nomenat pel riu Platte Nord.",
 	-- "The word Omaha (actually Umoⁿhoⁿ or Umaⁿhaⁿ) means ”Dwellers on the bluff” and is named after the Omaha tribe. Lewis and Clark passed through in 1804.",
-	"",
+	"La paraula Omaha (en realitat Umoⁿhoⁿ o Umaⁿhaⁿ) significa 'habitants al penya-segat' i es va anomenar així per la tribu Omaha. Lewis i Clark van passar-hi el 1804.",
 	-- "The settlement originally was called Oneida; it later changed its name to Amarillo, Spanish for the color yellow, the color of the soil and wildflowers of the region.",
-	"",
+	"L'assentament va ser originalment anomenat Oneida; més tard va canviar el seu nom a Amarillo, en espanyol per el color groc. El color de la terra i les flors silvestres de la regió.",
 	-- "Originally called the Valley of the Flowers, John Bozeman opened the Bozeman Trail in 1863 to connect with the Oregon Trail, and established the town in 1864.",
-	"",
+	"Originalment anomenada la Vall de les Flors, John Bozeman va obrir la Bozeman Trail el 1863 per connectar amb la ruta d'Oregon i va establir la ciutat el 1864.",
 	-- "Named “Fargo on the Prairie“ before 1871, the city was officially named ”Centralia” in 1871, but was soon renamed after Wells Fargo Express Co. founder William Fargo in 1872.",
-	"",
+	"Anomenada 'Fargo a la praderia' abans del 1871, la ciutat va ser nomenada oficialment 'Centralia' el 1871, però aviat va ser renombrada pel fundador de la Wells Fargo Express Co., William Fargo el 1872.",
 	-- "During the War of 1812, Native Americans held a council in Milwaukee in June 1812, which resulted in their decision to attack Chicago.",
-	"",
+	"Durant la guerra de 1812, els nadius americans van tenir un consell a Milwaukee al juny de 1812, que va donar lloc a la seva decisió d'atacar Chicago.",
 	-- "The area around present-day Kalamazoo was reserved as the village of Potawatomi Chief Match-E-Be-Nash-She-Wish, but was ceded in the 1827 Treaty of St. Joseph.",
-	"",
+	"L'àrea al voltant de l'actual Kalamazoo es va reservar com el poble de 'Potawatomi Chief Match-E-Be-Nash-She-Wish', però va ser cedit el 1827 pel Tractat de St. Joseph.",
 	-- "Carmel was originally called Bethlehem and, under the latter name, was laid out and platted in 1837. The original settlers were predominantly Quakers.",
-	"",
+	"Carmel va ser originalment anomenat Bethlehem i, sota el nom d'aquest últim, va ser distribuït el 1837. Els colons originals eren predominantment quàquers.",
 	-- "The settlement formerly known as Fort Miro adopted the name Monroe in 1820 after the ship “James Monroe“, the arrival of which changed the town.",
-	"",
+	"L'assentament anteriorment conegut com Fort Miro va adoptar el nom de Monroe el 1820 pel vaixell 'James Monroe', l'arribada del qual va canviar la ciutat.",
 	-- "The City of Hoover was incorporated in 1967 and named after William H. Hoover, a local insurance company owner. The I-459 highway helped increase the population.",
-	"",
+	"La ciutat de Hoover va ser incorporada el 1967 pel nom de William H. Hoover, amo d'una companyia d'assegurances local. L'autopista I-459 va ajudar a augmentar la població.",
 	-- "Columbia was created in 1786 by the South Carolina Assembly as it was important to the development of the state because of its location on the Congaree River.",
-	"",
+	"Columbia va ser creada el 1786 per l'Assemblea de Carolina del Sud, ja que era important per al desenvolupament de l'estat, per la seva ubicació al riu Congaree.",
 	-- "Charleston was established in 1794 on 40 acres where 35 people inhabited seven houses. It's now the state capitol.",
-	"",
+	"Charleston es va establir el 1794 en 160.000 metres quadrats, on 35 persones habitaven set cases. Ara és la capital de l'estat.",
 	-- "Homes of settlers were burned in 1750 by order of the local government to maintain peace and to demonstrate to Native Americans that their ownership would be respected.",
-	"",
+	"Cases de colons van ser cremades el 1750 per ordre del govern local per mantenir la pau i per demostrar als americans nadius que la seva propietat seria respectada.",
 	-- "In its early days of settlement, Bergen was called Northwoods. A road was chopped through the forest and the area settled in 1801 by Samuel Lincoln.",
-	"",
+	"En els seus primers dies de la colonització, Bergen va ser anomenat Northwoods. Es va fer un camí a través del bosc i la zona es va establir el 1801 per Samuel Lincoln.",
 	-- "After the American Revolutionary War, the United States mounted the Northwest Indian War to push Native American peoples out of what it then called the Northwest.",
-	"",
+	"Després de la guerra revolucionària americana, els Estats Units van anar a la guerra 'Northwest Indian War' per empènyer pobles nadius americans fora del que llavors es deia el nord-oest.",
 	-- "Mauston was originally a small village of six Winnebago wigwams called To-Konnee Village, where a trading post was built in 1837 by John T. De LaRonde.",
-	"",
+	"Mauston va ser originalment un petit poble de sis botigues índies 'Winnebago' anomenat 'To-Konnee Village', on un lloc comercial va ser construït el 1837 per John T. De LaRonde.",
 	-- "Iroquois Falls was built as a company town in 1913 by Frank Harris Anson, owner of the Abitibi Power and Paper Company. The paper mill brought many jobs.",
-	"",
+	"Iroquois Falls va ser construït com una ciutat de la companyia el 1913 per Frank Harris Anson, propietari de la companyia 'Abitibi Power and Paper Company'. La fàbrica de paper va portar molts llocs de treball.",
 	-- "A gold rush in 1934 created a frenzy in the area and soon Longlac was established as a mining town. The Little Long Lac Mine produced much gold.",
-	"",
+	"La febre de l'or de 1934 va crear un frenesí a la zona i aviat Longlac es va establir com un poble miner. La mina 'Little Long Lac Mine' va produir molt or.",
 	-- "During Ignace's early days, there was a settlement of railway boxcars used by the English residents there called “Little England“ until incorporation in 1908.",
-	"",
+	"Durant els primers dies d'Ignace, hi va haver un assentament de vagons de tren utilitzats pels residents anglesos allà anomenats 'Little England' fins a la seva incorporació el 1908.",
 	-- "Created in 1944 by the federal government as part of the Manhattan Project to accommodate employees of the nearby Chalk River Nuclear Research Laboratories.",
-	"",
+	"Creat el 1944 pel govern federal com a part del Projecte Manhattan per donar cabuda als empleats de la propera 'Chalk River Nuclear Research Laboratories'.",
 }
 --[[-------------------------------------------------
 
@@ -2249,57 +2249,57 @@ TACO RECIPE DESCRIPTIONS
 
 ---------------------------------------------------]]
 -- st_data[ "#recipedesc-nothingtaco" ] 		= "Filled with crisp air."
-st_data[ "#recipedesc-nothingtaco" ] 			= ""
+st_data[ "#recipedesc-nothingtaco" ] 			= "Ple d'aire fresc."
 -- st_data[ "#recipedesc-cheesetaco" ] 			= "Incredibly cheap and tastes amazing."
-st_data[ "#recipedesc-cheesetaco" ] 			= ""
+st_data[ "#recipedesc-cheesetaco" ] 			= "Increïblement barat i té un sabor impressionant."
 -- st_data[ "#recipedesc-asadataco" ] 			= "Best use for a cow. Tasty!"
-st_data[ "#recipedesc-asadataco" ] 				= ""
+st_data[ "#recipedesc-asadataco" ] 				= "El millor ús per una vaca. Saboròs!"
 -- st_data[ "#recipedesc-pollotaco" ] 			= "We all love chicken. At 350 degrees!"
-st_data[ "#recipedesc-pollotaco" ] 				= ""
+st_data[ "#recipedesc-pollotaco" ] 				= "A tots ens agrada el pollastre. A 350 graus!"
 -- st_data[ "#recipedesc-carnitastaco" ] 		= "Your customers will pig out on this beauty!"
-st_data[ "#recipedesc-carnitastaco" ] 			= ""
+st_data[ "#recipedesc-carnitastaco" ] 			= "Els teus clients porquejaran aquesta bellesa!"
 -- st_data[ "#recipedesc-helltaintaco" ]		= "Helltain gibs in a shell with onions."
-st_data[ "#recipedesc-helltaintaco" ]			= ""
+st_data[ "#recipedesc-helltaintaco" ]			= "Costelles de Helltain amb cebetes."
 -- st_data[ "#recipedesc-fuzztaco" ] 			= "Some have a taste for trash."
-st_data[ "#recipedesc-fuzztaco" ] 				= ""
+st_data[ "#recipedesc-fuzztaco" ] 				= "Alguns tenen un gust per les escombraries."
 -- st_data[ "#recipedesc-speetertaco" ]			= "Speeter meat is a delicacy now."
-st_data[ "#recipedesc-speetertaco" ]			= ""
+st_data[ "#recipedesc-speetertaco" ]			= "La carn d'Speeter és una delicadesa."
 -- st_data[ "#recipedesc-anttaco" ]				= "What else would we do with ants?"
-st_data[ "#recipedesc-anttaco" ]				= ""
+st_data[ "#recipedesc-anttaco" ]				= "Què més podria fer amb aquestes formigues?"
 -- st_data[ "#recipedesc-enchilada" ]			= "A rolled-up cheese taco!"
-st_data[ "#recipedesc-enchilada" ]				= ""
+st_data[ "#recipedesc-enchilada" ]				= "Un taco de formatge embolicat!"
 -- st_data[ "#recipedesc-chickenenchilada" ]	= "A rolled-up pollo taco!"
-st_data[ "#recipedesc-chickenenchilada" ]		= ""
+st_data[ "#recipedesc-chickenenchilada" ]		= "Un Taco de pollastre embolicat!"
 -- st_data[ "#recipedesc-frogtaco" ]			= "Hey, it might taste like chicken."
-st_data[ "#recipedesc-frogtaco" ]				= ""
+st_data[ "#recipedesc-frogtaco" ]				= "Ei, podria tenir gust a pollastre."
 -- st_data[ "#recipedesc-hoppertaco" ]			= "Bunnies are cute...in a taco."
-st_data[ "#recipedesc-hoppertaco" ]				= ""
+st_data[ "#recipedesc-hoppertaco" ]				= "Els conills són bonics...dins d'un taco."
 -- st_data[ "#recipedesc-guytaco" ]				= "Only a hardcore carnivore eats this much meat."
-st_data[ "#recipedesc-guytaco" ]				= ""
+st_data[ "#recipedesc-guytaco" ]				= "Només un carnívor incondicional menja aquesta quantitat de carn."
 -- st_data[ "#recipedesc-hoppertaco2" ]			= "Rabbit taco with a twist."
-st_data[ "#recipedesc-hoppertaco2" ]			= ""
+st_data[ "#recipedesc-hoppertaco2" ]			= "Taco de conill amb un toc màgic."
 -- st_data[ "#recipedesc-zombietaco" ]			= "Eat the undead! You'll like it!"
-st_data[ "#recipedesc-zombietaco" ]				= ""
+st_data[ "#recipedesc-zombietaco" ]				= "Menja't els no-morts! T'encantaran! "
 -- st_data[ "#recipedesc-moldtaco" ]			= "When you're feeling low...go lower."
-st_data[ "#recipedesc-moldtaco" ]				= ""
+st_data[ "#recipedesc-moldtaco" ]				= "Quan et sentis més baix d'ànims...deprimeix-te més."
 -- st_data[ "#recipedesc-deviledchickentaco" ]	= "Filled with only the most evil chickens."
-st_data[ "#recipedesc-deviledchickentaco" ]		= ""
+st_data[ "#recipedesc-deviledchickentaco" ]		= "Plens de només els pollastres més malvats."
 -- st_data[ "#recipedesc-catfishtaco" ]			= "This mutant tastes great with cheese and salsa!"
-st_data[ "#recipedesc-catfishtaco" ]			= ""
+st_data[ "#recipedesc-catfishtaco" ]			= "Aquest mutant és deliciós amb formatge i salsa!"
 -- st_data[ "#recipedesc-condorktaco" ]			= "Drop this bomb down a customer's throat."
-st_data[ "#recipedesc-condorktaco" ]			= ""
+st_data[ "#recipedesc-condorktaco" ]			= "Llança aquesta bomba a la gola del client."
 -- st_data[ "#recipedesc-shocktaco" ]			= "A taco with horns. Hmm. Interesting."
-st_data[ "#recipedesc-shocktaco" ]				= ""
+st_data[ "#recipedesc-shocktaco" ]				= "Un taco amb banyes. Mmmm. Interessant."
 -- st_data[ "#recipedesc-menacingtaco" ]		= "The big brute doesn't look so menacing now."
-st_data[ "#recipedesc-menacingtaco" ]			= ""
+st_data[ "#recipedesc-menacingtaco" ]			= "La béstia no sembla tant amenaçant ara."
 -- st_data[ "#recipedesc-modcattaco" ]			= "The magic kitty bites the corn."
-st_data[ "#recipedesc-modcattaco" ]				= ""
+st_data[ "#recipedesc-modcattaco" ]				= "El gatet màgic mossega el blat de moro."
 -- st_data[ "#recipedesc-spidertaco" ]			= "Creepy, crawly critter in a shell."
-st_data[ "#recipedesc-spidertaco" ]				= ""
+st_data[ "#recipedesc-spidertaco" ]				= "Esgarrifós, aquesta criatura amb closca."
 -- st_data[ "#recipedesc-beartaco" ]			= "The rotten guts give this a special taste."
-st_data[ "#recipedesc-beartaco" ]				= ""
+st_data[ "#recipedesc-beartaco" ]				= "Els budells podrits donen un gust especial."
 -- st_data[ "#recipedesc-supertaco" ]			= "Everything you ever wanted in a taco."
-st_data[ "#recipedesc-supertaco" ]				= ""
+st_data[ "#recipedesc-supertaco" ]				= "Tot el que sempre havies sommiat a dins d'un taco."
 
 --[[-------------------------------------------------
 
@@ -2311,217 +2311,217 @@ st_data[ "#shop-poster1" ] =
 	-- "Tacos are LIFE!",
 	"Els tacos són VIDA!",
 	-- "Are you fit to live?",
-	"",
+	"Ets apte per viure?",
 	-- "Tacos from heaven, to you",
-	"",
+	"Tacos del cel, per tu",
 	-- "Saints of Corn",
-	"",
+	"Sants de Blat de Moro",
 	-- "Please please please",
-	"",
+	"Si us plau si us plau si us plau",
 	-- "<drooling>",
-	"",
+	"<bavejant>",
 	-- "Why can't we live up there?",
-	"",
+	"Per què no podem viure allà dalt?",
 	-- "How about 300 more tacos?",
-	"",
+	"Què tal 300 tacos més?",
 }
 
 st_data[ "#shop-poster2" ] =
 {
 	-- "I will kill you",
-	"",
+	"Et mataré",
 	-- "Too many tacos did this",
-	"",
+	"Això ho han fet tants tacos",
 	-- "Buy clean veggies",
-	"",
+	"Compra verdures netes",
 	-- "No pesticides here",
-	"",
+	"No pesticides aquí",
 	-- "I eat 3 at a time",
-	"",
+	"Me'n menjo 3 alhora",
 	-- "I'm absolutely disgusting",
-	"",
+	"Soc totalment desagradable",
 	-- "One of my abs is an arm",
-	"",
+	"Una de les meves abdominals és un braç",
 	-- "Taco-holding is fun",
-	"",
+	"Retenir tacos és divertit",
 	-- "Hate shirts, love tacos!",
-	"",
+	"Odio les samarretes, estimo els tacos!",
 	-- "Watch out for this monster",
-	"",
+	"Vigila amb aquest monstre",
 	-- "This thing will taco you down",
-	"",
+	"Aquesta cosa et posarà de cap per abaix",
 	-- "An evil beast of taco death",
-	"",
+	"Una mala bèstia de mort per tacos",
 }
 
 st_data[ "#shop-poster3" ] =
 {
 	-- "Eat your corn shells daily",
-	"",
+	"Menja blat de moro diariament",
 	-- "Tacos aren't just for breakfast",
-	"",
+	"Els tacos no són només per esmorzar",
 	-- "Farm-grown tacos",
-	"",
+	"Tacos de granja",
 	-- "All we want are tacos",
-	"",
+	"Tot el que volem són tacos",
 	-- "Beans & eggs. You love them in this",
-	"",
+	"Fesols i ous. Els estimaràs a dins.",
 	-- "Up early? Have a taco.",
-	"",
+	"Has matinat? Menja't un taco.",
 	-- "Tacos are for everyone",
-	"",
+	"Els tacos són per tothom",
 }
 
 st_data[ "#shop-poster4" ] =
 {
 	-- "Destroy on sight!",
-	"",
+	"Destrucció a la vista!" ,
 	-- "Sleeps with all the fishes",
-	"",
+	"Dorm amb els peixos",
 	-- "Beware: not a mermaid",
-	"",
+	"Compte: no és una sirena",
 	-- "It's green and disgusting",
-	"",
+	"És verd i desagradable",
 	-- "Starring in a fail video soon",
-	"",
+	"Protagonitzant un fracàs de vídeo aviat",
 	-- "Do you like fish sticks?",
-	"",
+	"T'agraden els palets de peix?",
 	-- "How desperate are you?",
-	"",
+	"Estàs molt desesperat?",
 	-- "This isn't even funny anymore",
-	"",
+	"Això ja no fa gràcia",
 	-- "Puke, in fish form",
-	"",
+	"Vòmit, en forma de peix",
 }
 
 st_data[ "#shop-poster5" ] =
 {
 	-- "Heavy metal idiots!",
-	"",
+	"Heavy metal idiotes!",
 	-- "The Scabengers",
-	"",
+	"Els Scabengers",
 	-- "Concert tonight. Fail video tomorrow.",
-	"",
+	"Concert avui a la nit. Demà, fracàs de vídeo.",
 	-- "Starring D-bag Dave",
-	"",
+	"Intèrpret Dave el Cuc",
 	-- "Hit song: I AM THE TRASHMAN",
-	"",
+	"Èxit: SÓC L'ESCOMBRIAIRE",
 	-- "Hit song: WE ARE MAGGOTMEN",
-	"",
+	"Èxit: SOM ELS HOMES CUC",
 	-- "Wanted: Dead",
-	"",
+	"Es busca: Mort",
 	-- "Maggots of Metal",
-	"",
+	"Cucs del Metal",
 	-- "Scabs From Hell",
-	"",
+	"Sarnosos de l'Infern",
 	-- "LIVE at the Dumpster! Bring your gun.",
-	"",
+	"EN DIRECTE a l'Abocador d'escombraries! Porta la teva arma.",
 	-- "The Pretty Garbagemen",
-	"",
+	"Els Escombriaires Bonics",
 	-- "LIVE tonight: Drunk and Dumb",
-	"",
+	"EN DIRECTE aquesta nit: Borratxos i Muts",
 }
 
 st_data[ "#shop-poster6" ] =
 {
 	-- "Wanted for getting down to business",
-	"",
+	"Es busca per anar per feina",
 	-- "TOCCO THE OUTLAW",
-	"",
+	"TOCCO AL MARGE DE LA LLEI",
 	-- "Wanted in ten states for fake burrito sales",
-	"",
+	"Es busca en deu estats per vendre burritos falsos",
 	-- "Have your kids eaten this man's enchiladas?",
-	"",
+	"Els teus fills han menjat les enchiladas d'aquest home?",
 	-- "Keep your family away from this bad burrito",
-	"",
+	"Mantén a la teva família lluny d'aquests burritos",
 	-- "Beware the burrito beast of Texas",
-	"",
+	"Ves amb compte amb la bèstia dels burritos",
 	-- "Kids, don't play with salsa or else!",
-	"",
+	"Nens, no jugueu amb la salsa o qualsevol altra cosa!",
 	-- "TOCCO, now in prison. One rotten taquito.",
-	"",
+	"TOCCO, ara a la presoó. Un taco podrit.",
 }
 
 st_data[ "#shop-poster7" ] =
 {
 	-- "Brains are Life",
-	"",
+	"Cervells són Vida",
 	-- "Chillin' with the Brainmaster",
-	"",
+	"Disfrutant amb el Mestre dels Cervells",
 	-- "I wish I could eat this poster",
-	"",
+	"Desitjaria menjar-me aquest cartell",
 	-- "Just sit back and relax your brain",
-	"",
+	"Asseu-te i relaxa el cervell",
 	-- "Don't worry, I'll take care of that pesky brain",
-	"",
+	"No et preocupis. Tindré cura d'aquest cervell maleït",
 	-- "Brains are fuel",
-	"",
+	"Cervells són gasolina",
 	-- "True enlightenment is having some brains",
-	"",
+	"El veritable camí es tenir alguns cervells",
 	-- "I'm still stupid even with these brains",
-	"",
+	"Segueixo sent estúpid inclús amb aquests cervells",
 }
 
 st_data[ "#shop-poster8" ] =
 {
 	-- "Running through the fields... best friends forever!",
-	"",
+	"Corrent pels camps ... millors amics per sempre!",
 	-- "Five different flavors of pet! Yum!",
-	"",
+	"Cinc different sabors de mascota! Mmmm!",
 	-- "Come back here, pets, I only want to eat you!",
-	"",
+	"Torneu aquí, mascotes, només vull menjar-vos!",
 	-- "I've escaped Hell for a life of luxury with pets!",
-	"",
+	"He escapat de l'infern per una vida luxosa amb mascotes!",
 	-- "So cute, yet so tasty!",
-	"",
+	"Que bonica, i saborosa!",
 	-- "Catch the rainbow! Then catch the rainbow pets!",
-	"",
+	"Agafa l'arc de Sant Martí! Després agafa les mascotes irisades!",
 	-- "I'm eating these guys in about 5 minutes.",
-	"",
+	"Em menjaré aquestes mascotes en 5 minuts.",
 	-- "These are the five tastiest colors!",
-	"",
+	"Són els cinc colors més saborosos!",
 	-- "Follow me! I'm skipping my way to Hell!",
-	"",
+	"Segueix-me! M'estic escapant de l'infern!",
 }
 
 st_data[ "#shop-poster9" ] =
 {
 	-- "I know we shouldn't mix, but it feels right.",
-	"",
+	"Sé que no hauríem de barrejar, pero senta bé.",
 	-- "I have something important to tell you. After we eat.",
-	"",
+	"T'he de dir algo important. Després de menjar.",
 	-- "Skeeters and Ants. Best Friends Forever.",
-	"",
+	"Skeeters i Formigues. Millors Amics Per Sempre.",
 	-- "Look what I scraped up off the road for us tonight.",
-	"",
+	"Mira que he caçat a la carretera per aquesta nit.",
 	-- "This taco will bind our love together. Sour cream?!",
-	"",
+	"Aquest taco ens mantindrà junts per sempre. Crema àcida?!",
 	-- "Bugs in the night. True romance around a taco.",
-	"",
+	"Insected a la nit. Romanç autèntic en un taco.",
 	-- "I'll show you what's under the tablecloth later.",
-	"",
+	"T'ensenyaré que hi ha sota les estovalles més tard.",
 	-- "I have something to ask you, my dear. It's serious.",
-	"",
+	"T'he de fer una pregunta seriosa, estimat. És seriós.",
 	-- "If you touch that taco, I'll eat your head off.",
-	"",
+	"Si toques aquest taco, em menjaré el teu cap.",
 	-- "I'm loving it! The taco, that is. It's all I live for.",
-	"",
+	"M'encanta! Simplement ...el taco. Només he viscut per això.",
 	-- "Say yes, or my family under the table will eat you.",
-	"",
+	"Digues que si, o la meva familia que està a sota la taula se't menjarà.",
 	-- "You think I'm going to propose. No, I'm eating that taco.",
-	"",
+	"Tu creus que em declararé. No, m'estic menjant aquest taco.",
 	-- "Taco and chill?",
-	"",
+	"Taco i relax?",
 }
 
 st_data[ "#shop-poster10" ] =
 {
 	-- "Macras the Menacer! Tonight in the Deatharena!",
-	"",
+	"Macras l'Amenaçador! Aquesta nit a l'Arena de la Mort!",
 	-- "Masked idiot loose on the highway. Call the police.",
-	"",
+	"Idiota emmascarat a l'autopista. Truca a la policia.",
 	-- "Pizznazz the Punisher! On CNB tonight, 8pm EST.",
-	"",
+	"Pizznazz el Castigador! Aquesta nit a CNB, a les 8.",
 	-- "Watch Kamtross deathmatch Rocknaw tonight!",
 	"",
 	-- "Sunday, Sunday, Sunday! Big Daddy Ron Bartletts!",
@@ -3217,7 +3217,7 @@ st_data[ "#upgrade_tutorial_mobile" ] =
 st_data[ "#upgrade_tutorial_desktop" ] =
 {
 	-- "Hold space and click to fire a rocket!",
-	"",
+	"Mantingues l'espai apretat i fes click per disparar un cohet!",
 	-- "Click the super charger icon to turbo boost to your destination!",
 	"",
 	-- "Click the flame thrower fuel icon to toggle the flame throwers!",
@@ -3237,37 +3237,37 @@ TOWN TUTORIAL
 st_data[ "#town_tutorial_mobile" ] =
 {
 	-- "This wanderer looks hungry! Tap on your taco truck to start.",
-	"",
+	"Aquest rodamón sembla famolenc! Fes clic en el seu camió de tacos per començar.",
 	-- "Time to hit the road. Tap the tire button to leave town.",
-	"",
+	"És hora de sortir a la carretera. Toca el botó de pneumàtic per sortir de la ciutat.",
 	-- "Looks like you got some new recipes! Sometimes when you enter a new town you will unlock new recipes."
-	"",
+	"Sembla que tens algunes noves receptes! A vegades, quan entres una nova ciutat es desbloquegen noves receptes.",
 	-- "Tap on the recipe book button to go check out your new recipes.",
-	"",
+	"Fes clic al botó del llibre de receptes per anar a veure les noves receptes.",
 	-- "This is a shop. Here you will be able to buy the condiments you need to make your tacos. Tap the shop to enter.",
-	"",
+	"Això és una botiga. Aquí podraàs comprar els condiments que necessites per fer tacos. Toca a la botiga per entrar.",
 	-- "You'll need more money in order to buy gas, so head back into the truck and make some tacos!",
-	"",
+	"Necessitaràs més diners per comprar gas, així que torna al camió i fes tacos!",
 	-- "You should refuel before you leave town, tap the gas pump to fill your tank.",
-	"",
+	"Necessitaràs posar gasolina abans de marxar de la ciutat, Toca el botó de la benzinera per omplir el tanc.",
 }
 
 st_data[ "#town_tutorial_desktop" ] =
 {
 	-- "This wanderer looks hungry! Click on your taco truck to start.",
-	"",
+	"Aquest rodamón sembla famolenc! Fes clic en el seu camió de tacos per començar.",
 	-- "Time to hit the road. Click the tire button to leave town.",
-	"",
+	"És hora de sortir a la carretera. Toca el botó de pneumàtic per sortir de la ciutat.",
 	-- "Looks like you got some new recipes! Sometimes when you enter a new town you will unlock new recipes."
-	"",
+	"Sembla que tens algunes noves receptes! A vegades, quan entres una nova ciutat es desbloquegen noves receptes.",
 	-- "Click on the recipe book button to go check out your new recipes."
-	"",
+	"Fes clic al botó del llibre de receptes per anar a veure les noves receptes.",
 	-- "This is a shop, here you will be able to buy the condiments you need to make your tacos. Click the shop to enter.",
-	"",
+	"Això és una botiga. Aquí podraàs comprar els condiments que necessites per fer tacos. Toca a la botiga per entrar.",
 	-- "You'll need more money in order to buy gas, so head back into the truck and make some tacos!",
-	"",
+	"Necessitaràs més diners per comprar gas, així que torna al camió i fes tacos!",
 	-- "You should refuel before you leave town, click the gas pump to fill your tank.",
-	"",
+	"Necessitaràs posar gasolina abans de marxar de la ciutat, Toca el botó de la benzinera per omplir el tanc.",
 }
 
 
@@ -3279,13 +3279,13 @@ SLOT TUTORIAL
 st_data[ "#slot_tutorial_mobile" ] = 
 { 
 	-- "Welcome to the slot machine! Here you can spend %s for a chance to win %s and other rare items! Tap the handle to get started!",
-	"",
+	"Benvingut a l'escurabutxaques! Aquí pots gastar %s per tenir opcions de guanyar %s i altres objectes rars! Prem el mànec per començar!",
 }
 
 st_data[ "#slot_tutorial_desktop" ] = 
 {
 	-- "Welcome to the slot machine! Here you can spend %s for a chance to win %s and other rare items! Tap the handle to get started!",
-	"",
+	"Benvingut a l'escurabutxaques! Aquí pots gastar %s per tenir opcions de guanyar %s i altres objectes rars! Prem el mànec per començar!",
 }
 
 -- st_data[ "#slot_tutorial_cash" ]  	= "cash"
