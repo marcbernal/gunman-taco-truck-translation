@@ -233,11 +233,11 @@ st_data["#catfishmeat_name"] 	= "Peix Gat"
 -- st_data["#condorkmeat_name"] = "Condork"
 st_data["#condorkmeat_name"] 	= "Condork"
 -- st_data["#hellshockermeat_name"] = "Hell Shocker"
-st_data["#hellshockermeat_name"] = "Hell Shocker"
+st_data["#hellshockermeat_name"] = "Xocador"
 -- st_data["#menacermeat_name"] = "Menacer"
 st_data["#menacermeat_name"] 	= "Amenaçador"
 -- st_data["#modcatmeat_name"] 	= "Modcat"
-st_data["#modcatmeat_name"] 	= "Modcat"
+st_data["#modcatmeat_name"] 	= "ModGat"
 -- st_data["#spidermeat_name"] 	= "Spider"
 st_data["#spidermeat_name"] 	= "Aranya"
 
@@ -483,11 +483,11 @@ st_data["#customer-leaving-single"] =
 --		"I've had enough of this taco injustice.",
 		"Ja n'he tingut prou d'aquesta injustícia.",
 --		"I'm going to make my own tacos out of trash and tears.", 
-		"Vaig a fer-me els meus propis tacos de porqueria i llàgrimes.",
+		"Cuinaré els meus propis tacos amb porqueria i llàgrimes.",
 --		"I'd rather run around as a mutant than deal with substandard tacos.", 
-		"Prefereixo córrer al voltant com un mutant que menjar amb aquests tacos lamentables.",
+		"Prefereixo córrer com un mutant que menjar aquests tacos lamentables.",
 --		"Just you wait until mother hears about this!", 
-		"Només espera que ta mare escolti sobre això!",
+		"Espera que ta mare escolti sobre això!",
 --		"I'm going to go over there and seethe with rage.", 
 		"Aniré cap allà i bulliré de ràbia.",
 --		"I thought you were the taco master? I have been living a lie!", 
@@ -495,7 +495,7 @@ st_data["#customer-leaving-single"] =
 --		"You make me sick. You're not even prepared. I'm out." ,
 		"Em poses malalt. No estàs preparat. Marxo.",
 --		"I'll go out there and make my own tacos out of live mutants! I don't need you." ,
-		"Anirè allà fora i em faré els meus propis tacos de muntats vius! No et necessito.",
+		"Anirè allà fora i em faré els meus propis tacos de mutants vius! No et necessito.",
 --		"Well, that's the last time I ask you for a taco. You can't even make them right." ,
 		"Bé, és l'última vegada que et demano tacos. Ets incapaç de fer-los bé.",
 --		"Go back to San Diego where you belong!" ,
@@ -507,9 +507,9 @@ st_data["#customer-leaving-single"] =
 --		"I can't understand your refusal to make me a taco. One simple taco." ,
 		"No puc entendre per què no pots cuinar un taco. Un sencill taco.",
 --		"I just asked for a taco. Just one. And you can't even handle doing that." ,
-		"Només he demanat un taco. Un. I ets incapaç de fer-ho.",
+		"Només he demanat un taco. Un. I ets incapaç de fer-lo.",
 --		"Are you even Mexican? You're supposed to be able to make great food from nothing." ,
-		"Ets tan sols Mexicà? Se suposa que hauries de ser capaç de cuinar bon menjar del no res.",
+		"Ets Mexicà? Se suposa que hauries de ser capaç de cuinar bon menjar del no res.",
 --		"Do you even cook? I don't think so. You can't make a simple taco for me." ,
 		"Has cuinat mai? Crec que no. No ets capaç de fer ni un sencill taco.",
 --		"Incredible. You can't do anything. So upsetting." ,
@@ -517,7 +517,7 @@ st_data["#customer-leaving-single"] =
 --		"Having trouble reading that little taco book? Looks like it." ,
 		"Tens problemes llegint aquest llibret de receptes? Ho sembla.",
 --		"I'm getting out of this dump. You stink it up with your non-taco-making!" ,
-		"Marxo d'aquest abocador. Puts a ineficàcia.",
+		"Marxo d'aquest abocador. Fas pudor a ineficàcia.",
 --		"Have fun keeping that truck together after my bomb blows it apart! See ya!" ,
 		"Passa-t'ho bé arreglant el camió després que la meva bomba el destrossi! A reveure!",
 --		"You should go back to prison for that failure." ,
@@ -527,7 +527,7 @@ st_data["#customer-leaving-single"] =
 --		"What I saw in that taco truck makes me sick. An awful performance." ,
 		"El que he vist en aquest camió de tacos m'ha posat malalt. Una actuació lamentable.",
 --		"I'm telling all the other towns not to bother waiting for you." ,
-		"Explicaré als altres pobles que no cal que es molestin esperan-te.",
+		"Explicaré a les altres ciutats que no cal que es molestin esperant-te.",
 --		"Welp, that's enough of that. You're total clownshoes." ,
 		"Ja n'hi ha prou, ets un incompetent.",
 --		"Hey, donkeyshoes - go back to Mexican school and learn the simple craft of taco-making." ,
@@ -537,13 +537,13 @@ st_data["#customer-leaving-single"] =
 --		"ONE TACO! YOU CAN'T EVEN MAKE ME ONE TACO? That's enough of that - I'm gone." ,
 		"UN TACO! ETS INCAPAÇ DE FER-ME UN TACO? Ja n'hi ha prou - Marxo.",
 --		"I should bash your truck into pieces. You refuse to make me a taco. You're horrible!" ,
-		"Hauria de destrossar-te el camió. No vols fer-me un taco. Ets horrible!",
+		"Hauria de destrossar-te el camió. No vols fer-me un taco. Ets mala persona!",
 --		"I'm just going to eat whatever's out beyond this town, I'm starving so bad!" ,
-		"Marxaré a menjar a qualsevol lloc fora del poble, m'estic morint de gana!",
+		"Marxaré a menjar a qualsevol lloc fora de la ciutat, m'estic morint de gana!",
 --		"I'm going to stumble away, starving, and die a horrible death soon." ,
 		"Estic a punt de desmaiar-me mort de gana i tindré una mort horrible.",
 --		"First, no taco. Then, you leave town and turn me into a skeleton. What a life." ,
-		"Primer, sense taco. Després, tu marxes del poble i em deixes fet un esquelet. Quina vida.",
+		"Primer, sense taco. Després, tu marxes de la ciutat i em deixes fet un esquelet. Quina vida.",
 --		"I should come in there and smash up the inside of that truck." ,
 		"Hauria d'haver entrat i destrossar-te el camió.",
 --		"I'm shaking with non-taco-eating terror. I know the end is near for me!" ,
@@ -559,7 +559,7 @@ st_data["#customer-leaving-multiple"] =
 --		"We survived the apocalypse for what? Crappy service? I don't think so.",
 		"Per a què hem sobreviscut a l'apocalipsi? Per tenir un servei horrible? No ho crec.",
 --		"Let's leave before we get disappointed again.",		
-		"Marxem abans no ens defraudi una altra vegada.",
+		"Marxem abans no ens decepcioni una altra vegada.",
 --		"You are a failure in our eyes. A massive taco failure.",		
 		"Ets un fracàs. Un fracàs massiu de tacos.",
 --		"We're going to learn how to make tacos ourselves since you can't.",
@@ -579,13 +579,13 @@ st_data["#customer-leaving-multiple"] =
 --		"We are barely alive and you refuse to serve just one taco each? You're a disappointment.",
 		"Estem vius de miracle i tu ets incapaç de fer-nos un taco? Ets decebedor.",
 --		"We have formed a committee and voted to leave this no-taco town.",
-		"Hem format un comité i hem votat que marxis d'aquest poble.",
+		"Hem format un comité i hem votat que marxis d'aquesta ciutat.",
 --		"We're leaving and you're getting no more money, how do you like that?",
 		"Marxem i et quedes sense diners, t'agrada?",
 --		"You're not worth the asphalt your truck is parked on. We're going to leave town.",
-		"No mereixes l'asfalt on està aparcat el teu camió. Marxarem del poble.",
+		"No mereixes l'asfalt on està aparcat el teu camió. Marxarem de la ciutat.",
 --		"You think you're awesome because you can make tacos? Thing is: we know you can't make tacos.",
-		"Et penses que ets impressionant per què saps cuinar tacos? El tema és: sabem que no saps cuinar tacos.",
+		"Et penses que ets el millor per què saps cuinar tacos? El tema és: sabem que no saps cuinar tacos.",
 --		"We saw how you scrambled around in there to find ingredients. Stock up next time, loser.",
 		"Vam veure tot el que vas fer per aconseguir ingredients. La propera vegada, te'ls guardes, perdedor.",
 --		"That's it - we're going over to Burrito Barn. Better than no tacos at all.",
@@ -595,7 +595,7 @@ st_data["#customer-leaving-multiple"] =
 --		"How about we build a wall around your sad taco truck? We'll make Mexico pay for it.",
 		"Què et sembla si construïm un mur al voltant del teu trist camió? Farem que Mèxic el pagui.",
 --		"We're going to wrangle up a Hellshocker to come teach you a lesson, taco puke.",
-		"Anirem a buscar un Hellshocker per a que t'ensenyi una lliçó, ets vomitiu.",
+		"Anirem a buscar un Xocador per a que t'ensenyi una lliçó, ets vomitiu.",
 --		"We're going out to round up a Boom Bear so he can hop on your truck and blow it to pieces.",
 		"Anirem a buscar un Ós Explosiu per a que salti a sobre del teu camió i el faci miques.",
 --		"Let's go find a Spider Mama, bring it back, and teach this bozo a hilarious lesson!",
@@ -605,13 +605,13 @@ st_data["#customer-leaving-multiple"] =
 --		"We're mad enough to bring back a stampede of Speeters to decimate your truck!",
 		"Estem tant emprenyats que som capaços de portar una estampida d'escarabats per destrossar el teu camió!",
 --		"Let's go find a few Condorks to bomb this idiot's truck!",
-		"Anem a buscar uns quants Condorks per bomberdajer el camió d'aquest idiota!",
+		"Anem a buscar uns quants Condorks per bombardejar el camió d'aquest idiota!",
 --		"We think Weird Arm Jones could teach you a lesson or two about refusing service!",
 		"Pensem que en Jones Braç Estrany et podria ensenyar una o dues lliçons sobre rebutjar serveis!",
 --		"We wanna TACO 'bout your inability to make us our favorite food!",
 		"Volem TACOS pero ets incapaç de fer-nos el nostre menjar preferit!",
 --		"We'll just make our way down to Mexico where they can actually make tacos.",
-		"Anirem fent via cap a Mèxic ón si saben fer tacos.",
+		"Anirem fent via cap a Mèxic, allà si saben fer tacos.",
 }
 
 --[[-------------------------------------------------
@@ -622,17 +622,17 @@ SLOT MACHINE NAMES
 st_data[ "#slot-names" ] =
 {
 	-- "SLOTTER",
-	"",
+	"ESCURADOR",
 	-- "MEXISLOTS",
-	"",
+	"ESCURAMEXIC",
 	-- "SALSASLOTS",
-	"",
+	"ESCURASALSES",
 	-- "SLOT-O-FUN",
-	"",
+	"DIVERSIÓ TAQUERA",
 	-- "REEL TACOS",
 	"TACOS EMBOLICATS",
 	-- "ENCHISLOTA",
-	"ENCHISLOTA",
+	"ENCHILADA FEST",
 	-- "WILD TACOS",
 	"TACOS SALVATGES",
 	-- "FOOD FUN",
@@ -640,7 +640,7 @@ st_data[ "#slot-names" ] =
 	-- "REEL FOOD",
 	"MENJAR EMBOLICAT",
 	-- "SPIN-VEG",
-	"VERDURA ",
+	"ESCURA VERDURA",
 }
 
 
@@ -676,13 +676,13 @@ st_data["#customer-impatient"] =
 --		"Starving! Open up, now!",
 		"Em moro de gana! Obre ja!",
 --		"Could you maybe just start cooking tacos?",
-		"Podries començar a cuinar els tacos?",
+		"Podries començar a cuinar?",
 --		"I'd love to wait another week but I'm dying.",
 		"M'encantaria esperar una altra setmana, pero m'estic morint.",
 --		"If I don't eat soon, vultures will be eating me.",
 		"Si no menjo aviat, els voltors se'm menjaran a mi.",
 --		"So, yeah, I'm really hungry. You're the cure.",
-		"Si, si! Em moro de gana. I tu ets la cura!",
+		"Si, si! Em moro de gana. I tu ets la solució!",
 --		"Tacos would be life-saving at this point.",
 		"Els tacos son uns salvavides.",
 --		"I don't know why you just sit there.",
@@ -696,7 +696,7 @@ st_data["#customer-impatient"] =
 --		"At some point I'm going to fall over.",
 		"En algun moment em desmaiaré.",
 --		"I'd eat the store sign if I could. Starving.",
-		"M'hagués menjat el lletrero de la botiga si hagués pogut. Em moro de gana.",
+		"M'hagués menjat el cartell de la botiga si hagués pogut. Em moro de gana.",
 --		"Kinda sick of wondering why you're not cooking.",
 		"Per quins set sous encara no estàs cuinant?",
 --		"Why don't you help us... help you?"
@@ -718,7 +718,7 @@ JOCCO TEXT
 
 ---------------------------------------------------]]
 -- st_data[ "jocco-fan" ] 			= "Yeah, it's old and barely works, but at least it's semi-cool in here."
-st_data[ "jocco-fan" ] 				= "Si, és vell i tot just funciona, pero almenys s'està mig fresc aquí."
+st_data[ "jocco-fan" ] 				= "Si, és vell i funciona de casualitat, pero almenys s'està mig fresc aquí."
 -- st_data[ "jocco-talk-1"]			= "That is %s. It's excellent and you won't find it at any other store."
 st_data[ "jocco-talk-1"]			= "Això és %s. És excel·lent i no ho trobaràs a cap altra botiga."
 -- st_data[ "jocco-talk-2"]			= "I forgot I was selling %s! You are having a lucky day today!"
@@ -754,7 +754,7 @@ st_data[ "#jocco-dump"]				= "Estàs marxant de la botiga. Vols descartar el car
 -- st_data[ "#jocco-wasrobbed"]		= "I've been robbed! He had no shirt on and looked like a human octopus!"
 st_data[ "#jocco-wasrobbed"]		= "M'han robat! No portava samarreta i semblava un pop humà!"
 -- st_data[ "#jocco-buymeat"]		= "Looks like you have some extra %s meat. I'll buy %d for %d scrap. It's for my brother, Tocco."
-st_data[ "#jocco-buymeat"]			= "Sembla que tens algun %s extra. Et compraré %d per %d de ferralla. És pel meu germà, Tocco."
+st_data[ "#jocco-buymeat"]			= "Sembla que tens carn de %s extra. Et compraré %d per %d de ferralla. És pel meu germà, Tocco."
 
 --[[-------------------------------------------------
 
@@ -773,13 +773,13 @@ st_data[ "rocco-talk-2" ]				= "Una troballa increïble - has trobat %s. És el 
 -- st_data[ "rocco-talk-3" ]			= "I'm impressed! You obviously know the quality of %s. Best you can get anywhere."
 st_data[ "rocco-talk-3" ]				= "Estic impressionat! Obviament coneixes la qualitat de %s. El millor que pots aconseguir."
 -- st_data[ "rocco-talk-4" ]			= "Wow, %s. Amazing. You'll love what it can do. It's a mechanic's best friend during the winter months."
-st_data[ "rocco-talk-4" ]				= "Wow, %s. Increïble. T'encantarà el que pot fer. És el millor amic mecànic durant els mesos d'hivern."
+st_data[ "rocco-talk-4" ]				= "Guau, %s. Increïble. T'encantarà el que pot fer. És el millor amic mecànic durant els mesos d'hivern."
 -- st_data[ "rocco-talk-5" ]			= "We all know about %s. It's too awesome to even talk about. So I won't. I'll sit here like a mute clown."
 st_data[ "rocco-talk-5" ]				= "Tots coneixem sobre %s. És massa impressionant com per parlar'ne. Per tant, no ho faré. M'asseuré aquí com si fos mut."
 -- st_data[ "rocco-talk-6" ]			= "My lord, %s. I can't even explain its magnificence. In fact, I won't. I'm just a mechanic."
 st_data[ "rocco-talk-6" ]				= "Deu meu, %s. Sóc incapaç d'explicar la seva magnificiència. De fet, no vull. Soc només un mecànic."
 -- st_data[ "rocco-talk-7" ]			= "Wow, you found %s! It's so incredible that I cuddle up with it sometimes. Ah, the life of a solitary mechanic..."
-st_data[ "rocco-talk-7" ]				= "Wow, has trobat %s! És tant increïble que de vegades m'hi abraço. Ah, la vida solitària del mecànic."
+st_data[ "rocco-talk-7" ]				= "Guau, has trobat %s! És tant increïble que de vegades m'hi abraço. Ah, la vida solitària del mecànic."
 -- st_data[ "rocco-talk-8" ]			= "Around these parts %s is a godsend! If you don't have it you're in a world of hurt."
 st_data[ "rocco-talk-8" ]				= "Oh, enviat per la ma de Dèu %s! Si no ho tens, estàs al món del dolor."
 -- st_data[ "rocco-fix" ] 				= "You buy %s and Rocco will fix up your truck right now."
@@ -801,13 +801,13 @@ st_data[ "#rocco-too-expensive" ]		= "No tens prou ferralla per tot això."
 -- st_data[ "#rocco-replace" ]			= "BEWARE: You are going to replace %s with %s."
 st_data[ "#rocco-replace" ]				= "ATENCIÓ: Estàs a punt de canviar %s per %s."
 -- st_data[ "#rocco-dont-need" ]		= "You don't need this propane, the Flamethrower comes with a full tank. I am a benevolent mechanic."
-st_data[ "#rocco-dont-need" ]			= "No necessites aquest propà, el Llançaflames ve amb el tanc ple. Sóc un mecànic benèvol."
+st_data[ "#rocco-dont-need" ]			= "No necessites propà, el Llançaflames ve amb el tanc ple. Sóc un mecànic benèvol."
 -- st_data[ "#rocco-propane-max" ]		= "Your propane tank is already full. It wouldn't feel right to sell it."
 st_data[ "#rocco-propane-max" ]			= "El teu tanc de propà ja està ple. No em sentiria be si te'l vengués."
 -- st_data[ "#rocco-rocket-max" ]		= "You have no more room for rockets in your truck. I just can't go through with this sale, it's a matter of morals."
 st_data[ "#rocco-rocket-max" ]			= "No tens prou espai pels cohets al camió. No puc continuar la venta, és una qüestió de moral."
 -- st_data[ "#rocco-no-flamethrower" ]	= "You don't have a flamethrower, and without one this propane is useless. How do you think that'll make the propane feel? I won't sell this to you."
-st_data[ "#rocco-no-flamethrower" ]		= "No tens el Llançaflames, i sense un el propà no serveix per a res. Com creus que es sentirà el propà? No t'ho vendré."
+st_data[ "#rocco-no-flamethrower" ]		= "No tens el Llançaflames, i sense, el propà no serveix per a res. Com creus que es sentirà el propà? No t'ho vendré."
 -- st_data[ "#rocco-no-rockets" ]		= "Rockets need a place to live, and that place is in a Rocketlauncher. You don't have one. I won't sell you homeless rockets."
 st_data[ "#rocco-no-rockets" ]			= "Els cohets necessiten un lloc on viure, i aquest lloc es el Llançacohets. No en tens cap. No et vendré cohets sense sostre."
 -- string_en_us[ "#rocco-buygun" ]		= "You really need this %s. It will mow those monsters down!"
@@ -891,11 +891,11 @@ GARAGE ITEMS
 -- st_data[ "#rocketlauncher" ]  = "a Rocket Launcher"
 st_data[ "#rocketlauncher" ]  	= "un Llançacohets"
 -- st_data[ "#monsterscoop" ] 	= "a Monster Scoop"
-st_data[ "#monsterscoop" ] 		= "un Lleva Monstres"
+st_data[ "#monsterscoop" ] 		= "un Empenta Monstres"
 -- st_data[ "#supercharger" ] 	= "a Supercharger"
 st_data[ "#supercharger" ] 		= "Supercarregador"
 -- st_data[ "#wammerflammer" ] = "the Wammer Flammer"
-st_data[ "#wammerflammer" ] 	= "el Wammer Flammer"
+st_data[ "#wammerflammer" ] 	= "el Martell Gegant"
 -- st_data[ "#steelshield" ] 	= "a Steel Shield"
 st_data[ "#steelshield" ] 		= "un Escut d'Acer"
 -- st_data[ "#epicshield" ] 	= "an Epic Shield"
@@ -932,11 +932,11 @@ st_data[ "#panel-heavy" ] 		= "Xapat de Camió Pesat"
 -- st_data[ "#rocketlauncher-name" ] 	= "Rocket Launcher"
 st_data[ "#rocketlauncher-name" ] 	= "Llançacohets"
 -- st_data[ "#monsterscoop-name" ] 	= "Monster Scoop"
-st_data[ "#monsterscoop-name" ] 	= "Lleva Monstres"
+st_data[ "#monsterscoop-name" ] 	= "Empenta Monstres"
 -- st_data[ "#supercharger-name" ] 	= "Supercharger"
 st_data[ "#supercharger-name" ] 	= "Supercarregador"
 -- st_data[ "#wammerflammer-name" ] = "Wammer Flammer"
-st_data[ "#wammerflammer-name" ] 	= "Wammer Flammer"
+st_data[ "#wammerflammer-name" ] 	= "Martell Gegant"
 -- st_data[ "#steelshield-name" ] 	= "Steel Shield"
 st_data[ "#steelshield-name" ]	 	= "Escut d'Acer"
 -- st_data[ "#epicshield-name" ] 	= "Epic Shield"
@@ -1018,7 +1018,7 @@ st_data[ "#customer_relieved" ] =
 --	"I'm sick of beetles. I'm ready for enchiladas.",
 	"Estic fart d'escarabats. Estic llest per les enchiladas.",
 --	"Finally! Bacon and eggs! Wait.... no.",
-	"Per fi! Bacon i ous! Espera .... no.",
+	"Per fi! Bacon i ous! Espera.... no.",
 --	"Perfect timing - I just finished going nuts.",
 	"Just a temps - M'he tornat boig.",
 --	"I have nothing to offer except my empty stomach.",
@@ -1028,7 +1028,7 @@ st_data[ "#customer_relieved" ] =
 --	"Yay! I'm sick of licking nutrients from the dirt.",
 	"Si! Estic fart d'absorvir nutrients de la terra.",
 --	"I will finally get the tacos I've been craving for weeks!",
-	"Finalment aconseguiré els tacs que he estat anhelant durant setmanes!",
+	"Finalment aconseguiré els tacs que he estat desitjant durant setmanes!",
 --	"Please make me some tacos. I'm almost dead.",
 	"Si us plau, fes-me uns tacos. Estic quasi mort.",
 --	"This is great! Finally, some actual Mexican food!",
@@ -1067,7 +1067,7 @@ st_data[ "#customer_scared" ] =
 	-- "Oh my god no! Don't leave me here to die!"
 	"Oh Déu Meu no! No em deixis aquí a la meva sort!",
 	-- "I curse thee with an army of Helltain and Boom Bears!"
-	"Et maleeixo amb un exèrcit de Helltains i Óssos Explosius!",
+	"Et maleeixo amb un exèrcit de Helltain i Óssos Explosius!",
 	-- "You're killing me by leaving!"
 	"Si marxes em mataràs!",
 	-- "You've passed a death sentence on our town!"
@@ -1482,7 +1482,7 @@ st_data["#frogles"] 			= "Frogle"
 -- st_data["#helltain"] 		= "Helltain"
 st_data["#helltain"] 			= "Helltain"
 -- st_data["#modcat"] 			= "Modcat"
-st_data["#modcat"] 				= "Modcat"
+st_data["#modcat"] 				= "ModGat"
 -- st_data["#weird-arms"] 		= "Weird Arm Jones"
 st_data["#weird-arms"] 			= "Jones Braç Estrany"
 -- st_data["#menacer"] 			= "Menacer"
@@ -1492,13 +1492,13 @@ st_data["#redeye-batter"] 		= "Talús Ulls Vermells"
 -- st_data["#cretin"] 			= "Cretin"
 st_data["#cretin"] 				= "Cretí"
 -- st_data["#scavenger"] 		= "Scavenger"
-st_data["#scavenger"] 			= "Abocador"
+st_data["#scavenger"] 			= "Rondador"
 -- st_data["#scav-bomber"] 		= "Dynamite Scavenger"
-st_data["#scav-bomber"] 		= "Scavenger Dinamita"
+st_data["#scav-bomber"] 		= "Rondador Dinamita"
 -- st_data["#scav-chainsaw"]	= "Chainsaw Scavenger"
-st_data["#scav-chainsaw"]		= "Scanvenger Motoserra"
+st_data["#scav-chainsaw"]		= "Rondador Motoserra"
 -- st_data["#scav-mobile"]		= "Scavenger Mobile"
-st_data["#scav-mobile"]			= "Scavenger Móbil"
+st_data["#scav-mobile"]			= "Rondador Móbil"
 -- st_data["#speeter"] 			= "Speeter"
 st_data["#speeter"] 			= "Escarabat"
 -- st_data["#speeter-boss"] 	= "Speeter Daddy"
@@ -1833,7 +1833,7 @@ st_data[ "#flamer_pack_desc"] 				= "La carn mutant es serveix millor ben calent
 -- st_data[ "#hammer_pack_title"] 			= "THE HAMMER BUNDLE"
 st_data[ "#hammer_pack_title"] 				= "EL PAQUET MARTELL"
 -- st_data[ "#hammer_pack_desc"] 			= "Nothing says \"Get out of my way!\" quite like a giant hammer on the front of your truck. Unlocks the option to start with a Wammer Flammer."
-st_data[ "#hammer_pack_desc"] 				= "No hi ha res que digui millor \"Fuig del meu camí!\" que un martell gegant davant del camió. Desbloqueja la opció per començar amb un Wammer Flammer."
+st_data[ "#hammer_pack_desc"] 				= "No hi ha res que digui millor 'Fuig del meu camí!' que un martell gegant davant del camió. Desbloqueja la opció per començar amb un Martell Gegant."
 -- st_data[ "#meatfan_pack_title"] 			= "THE MEATFAN BUNDLE"
 st_data[ "#meatfan_pack_title"] 			= "EL PAQUET VENTILADOR DE CARN"
 -- st_data[ "#meatfan_pack_desc"] 			= "Your days of manually collecting bits are behind you! Behold as the Meatfan does your job for you! Unlocks the option to start with a Meatfan."
@@ -1843,9 +1843,9 @@ st_data[ "#rocket_pack_title"] 				= "EL PAQUET COHET"
 -- st_data[ "#rocket_pack_desc"] 			= "Why shoot guns when you could shoot rockets? Make your dreams a reality and rain drestruction from the heavens with the Rocketlauncher! Unlocks the option to start with a Rocket Launcher."
 st_data[ "#rocket_pack_desc"] 				= "Per a què pistoles quan pots tenir cohets? Fes realitat els teus somnis i fes caure del cel destrucció amb el Llançacohets! Desbloqueja la opció per començar amb un Llançacohets."
 -- st_data[ "#scoop_pack_title"] 			= "THE MONSTERSCOOP BUNDLE"
-st_data[ "#scoop_pack_title"] 				= "EL PAQUET LLEVAMONSTRES"
+st_data[ "#scoop_pack_title"] 				= "EL PAQUET EMPENTAMONSTRES"
 -- st_data[ "#scoop_pack_desc"] 			= "Ever wish that the front of your truck behaved more like a train? Make it so with the Monster Scoop! Unlocks the option to start with a Monster Scoop."
-st_data[ "#scoop_pack_desc"] 				= "Mai has desitjat que la part davantera del teu camió fós com un tren? Fes-ho amb el Lleva Monstres ! Desbloqueja la opció per començar amb un Lleva Monstres."
+st_data[ "#scoop_pack_desc"] 				= "Mai has desitjat que la part davantera del teu camió fós com un tren? Fes-ho amb l'Empenta Monstres ! Desbloqueja la opció per començar amb un Empenta Monstres."
 -- st_data[ "#ticket_small_title"] 			= "Small Stack of Tocco Tickets"
 st_data[ "#ticket_small_title"] 			= "Pila Petita de Tiquets d'en Tocco"
 -- st_data[ "#ticket_small_desc"] 			= "Tocco wants you to have some of these fun tickets you can use to buy CASH and SCRAP to help you save the family business!"
@@ -2020,31 +2020,31 @@ these name arrays MUST be at least 40 entries each!
 st_data[ "#shop_names" ] = 
 {
 --		"Bob's Stop N Get It",
-		"La Parada d'en Bob",
+		"Parada d'en Bob",
 --		"Impact Area",
 		"Àrea d'Impacte",
 --		"Tacommando",
 		"Tacolàndia",
 --		"Cilantro Cavern",
-		"El Coriandre Feliç",
+		"Coriandre Feliç",
 --		"Helltain Heaven",
-		"El Cel de ",
+		"Cel de Trossos d'Infern",
 --		"Fallout Food",
 		"Cuina Radioactiva",
 --		"Strontium Cabbage Shop",
-		"La Col d'Estronci",
+		"Col d'Estronci",
 --		"Neutron Nuggets",
 		"Nuggets Neutró",
 --		"Jocco's Apestand",
-		"La Cova d'en Jocco",
+		"Cova d'en Jocco",
 --		"Honkey Hamburgers",
 		"Hamburguesería Honkey",
 --		"Glow N Save",
 		"Brilla i Estalvia",
 --		"Phil's Final Outpost",
-		"L'últim Bastió d'en Phil",
+		"Últim Bastió d'en Phil",
 --		"All Jacked Up On Pies",
-		"Tot Sobre Tacos en Pastissos",
+		"Tot Sobre Tacos",
 --		"Final Fluids",
 		"Fluids Finals",
 --		"Nuclear Hollow",
@@ -2054,11 +2054,11 @@ st_data[ "#shop_names" ] =
 --		"Leafy Browns",
 		"Marrons Frondosos",
 --		"Cheese Shack",
-		"La Barraca del Formatge",
+		"Barraca del Formatge",
 --		"Bloodbath and Beyond",
 		"Banys de Sang i Molt Més",
 --		"Mary's Mankstop",
-		"La Parada de la Mari",
+		"Parada de la Mari",
 --		"Dark Tubes",
 		"Tubs Obscurs",
 --		"Coffee and Chunks",
@@ -2066,9 +2066,9 @@ st_data[ "#shop_names" ] =
 --		"Desolation Nation",
 		"Nació Desolació",
 --		"Jocco's Post",
-		"El Forat d'en Jocco",
+		"Forat d'en Jocco",
 --		"Radiation Rick's",
-		"La Radiació d'en Rick",
+		"Radiació d'en Rick",
 --		"El Pollo Disgusto",
 		"Pollo Disgusto",
 --		"Dodongo's Rib Shop",
@@ -2970,7 +2970,7 @@ st_data[ "#desc-toolkit" ]				= "Tot el que necessites per reparar un camió ho 
 -- st_data[ "#desc-rocketlauncher" ]	= "Want to obliterate monsters? Mount this Rocket Launcher. You'll be glad you did. Don't forget to buy rockets! It will cost %d scrap."
 st_data[ "#desc-rocketlauncher" ]		= "Vols desintegrar monstres? Equipa el Llança Cohets. Estaràs encantat de fer-ho. No t'oblidis de comprar cohets! Et costarà %d de ferralla."
 -- st_data[ "#desc-monsterscoop" ]		= "Shove those mutants out of your way with a train-like Monster Scoop mounted on your truck. It will cost %d scrap. It has %d armor."
-st_data[ "#desc-monsterscoop" ]			= "Empenta aquests mutants del camí amb el Lleva Monstres. Et costarà %d de ferralla. Té %d d'armadura."
+st_data[ "#desc-monsterscoop" ]			= "Empenta aquests mutants del camí amb l'Empenta Monstres. Et costarà %d de ferralla. Té %d d'armadura."
 -- st_data[ "#desc-supercharger" ]		= "Sometimes you need to make a quick getaway to a safe town. Engage the Supercharger and you'll blast your way to safety. It will cost %d scrap."
 st_data[ "#desc-supercharger" ]			= "De vegades necessites fugir rapidament cap a una ciutat. Equipa el Supercarregador i t'obriràs camí a la zona segura. Et costarà %d de ferralla."
 -- st_data[ "#desc-wammerflammer" ]		= "Want to flatten those monsters? This giant hammer will turn 'em into paste. It will cost %d scrap. It has %d armor."
