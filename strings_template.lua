@@ -233,7 +233,7 @@ st_data["#catfishmeat_name"] 	= "Peix Gat"
 -- st_data["#condorkmeat_name"] = "Condork"
 st_data["#condorkmeat_name"] 	= "Condork"
 -- st_data["#hellshockermeat_name"] = "Hell Shocker"
-st_data["#hellshockermeat_name"] = "Xocador"
+st_data["#hellshockermeat_name"] = "Dimoni Infernal"
 -- st_data["#menacermeat_name"] = "Menacer"
 st_data["#menacermeat_name"] 	= "Amenaçador"
 -- st_data["#modcatmeat_name"] 	= "Modcat"
@@ -1474,7 +1474,7 @@ st_data["#devilson"] 			= "Fill del Mal"
 -- st_data["#devilchick"] 		= "Devilchick"
 st_data["#devilchick"] 			= "Devilchick"
 -- st_data["#hell-shocker"] 	= "Hell Shocker"
-st_data["#hell-shocker"] 		= "Hell Shocker"
+st_data["#hell-shocker"] 		= "Dimoni Infernal"
 -- st_data["#boom-bear"] 		= "Boom Bear"
 st_data["#boom-bear"] 			= "Ós Explosiu"
 -- st_data["#frogles"] 			= "Frogle"
@@ -1504,7 +1504,7 @@ st_data["#speeter"] 			= "Escarabat"
 -- st_data["#speeter-boss"] 	= "Speeter Daddy"
 st_data["#speeter-boss"] 		= "Escarabat Gegant"
 -- st_data["#spider-baby"] 		= "Spider Baby"
-st_data["#spider-baby"] 		= "Aranya Nadó"
+st_data["#spider-baby"] 		= "Aranya Filla"
 -- st_data["#spider-mama"] 		= "Spider Mama"
 st_data["#spider-mama"] 		= "Aranya Mare"
 -- st_data["#condork"] 			= "Condork"
@@ -1710,13 +1710,13 @@ st_data["#victory-text"] =
 
 -- Empty Gas Tex
 -- st_data["#my-gas-costs"] 		= "I've got the fuel, but it'll cost you $%d."
-st_data["#my-gas-costs"] 			= "Tinc la gasolina, però et costarà $%d."
+st_data["#my-gas-costs"] 			= "Tinc benzina, però et costarà $%d."
 -- st_data["#empty-with-cash"] 		= "I've got fuel! But it'll cost you $%d."
-st_data["#empty-with-cash"] 		= "Tinc la gasolina! Però et costarà $%d."
+st_data["#empty-with-cash"] 		= "Tinc benzina! Però et costarà $%d."
 -- st_data["#empty-without-cash"] 	= "I've got fuel, but it costs $%d and you dont have enough cash. I'll take %d scrap instead!"
-st_data["#empty-without-cash"] 		= "Tinc la gasolina, pero costa $%d i no tens prou monedes. En lloc, t'agafaré %d de ferralla!"
+st_data["#empty-without-cash"] 		= "Tinc benzina, pero costa $%d i no tens prou monedes. En lloc, t'agafaré %d de ferralla!"
 -- st_data["#empty-without-scrap"] = "I need $%d or %d scrap before you get any fuel, I don't do charity cases. Have a nice apocalypse."
-st_data["#empty-without-scrap"] 	= "Necessito $%d o %d de ferralla abans que agafis gasloina, no faig caritat. Que tinguis un bon apocalipsi."
+st_data["#empty-without-scrap"] 	= "Necessito $%d o %d de ferralla abans que agafis benzina, no faig caritat. Que tinguis un bon apocalipsi."
 -- st_data["#gas-accept"] 			= "Thanks!"
 st_data["#gas-accept"] 				= "Gràcies!"
 -- st_data["#gas-reject"] 			= "I guess I'm dead. Goodbye!"
@@ -2028,7 +2028,7 @@ st_data[ "#shop_names" ] =
 --		"Cilantro Cavern",
 		"Coriandre Feliç",
 --		"Helltain Heaven",
-		"Cel de Trossos d'Infern",
+		"El Cel Infernal",
 --		"Fallout Food",
 		"Cuina Radioactiva",
 --		"Strontium Cabbage Shop",
@@ -2072,7 +2072,7 @@ st_data[ "#shop_names" ] =
 --		"El Pollo Disgusto",
 		"Pollo Disgusto",
 --		"Dodongo's Rib Shop",
-		"Tenda de Costelles \nd'en Dodongo",
+		"Costelletes d'en Dodongo",
 --		"Jocco's Hob-n-Nob",
 		"Forn d'en Jocco",
 --		"Full Rotten Taco",
@@ -2102,9 +2102,9 @@ st_data[ "#shop_names" ] =
 --		"Avalon's Takeaway",
 		"Menjar per emportar Avalon",
 --		"Maezza's Veg Shop",
-		"Tenda de verdures Maezza",
+		"Verduleria Maezza",
 --		"Donovan's Dumpstand",
-		"L'abocador d'en Donovan",
+		"Abocador Donovan",
 --		"Main Street Tumbleweed",
 		"La Rodadora Principal",
 --		"Slunk Shop",
@@ -2212,7 +2212,7 @@ st_data[ "#garage_names" ] =
 --		"Pistols Plus",
 		"Més Pistoles",
 --		"The Bullet Hole",
-		"El Forat de la Bala",
+		"Forat de Bala",
 --		"Just Guns",
 		"Només Pistoles",
 --		"Muzzle Tov",
@@ -2455,7 +2455,7 @@ st_data[ "#shop-poster7" ] =
 	-- "Don't worry, I'll take care of that pesky brain",
 	"No et preocupis. Tindré cura d'aquest cervell maleït",
 	-- "Brains are fuel",
-	"Cervells són gasolina",
+	"Cervells són benzina",
 	-- "True enlightenment is having some brains",
 	"El veritable camí es tenir alguns cervells",
 	-- "I'm still stupid even with these brains",
@@ -2493,11 +2493,11 @@ st_data[ "#shop-poster9" ] =
 	-- "Skeeters and Ants. Best Friends Forever.",
 	"Skeeters i Formigues. Millors Amics Per Sempre.",
 	-- "Look what I scraped up off the road for us tonight.",
-	"Mira que he caçat a la carretera per aquesta nit.",
+	"Mira que he caçat a la carretera per nosaltres aquesta nit.",
 	-- "This taco will bind our love together. Sour cream?!",
 	"Aquest taco ens mantindrà junts per sempre. Crema àcida?!",
 	-- "Bugs in the night. True romance around a taco.",
-	"Insected a la nit. Romanç autèntic en un taco.",
+	"Insectes a la nit. Romanç autèntic al voltant d'un taco.",
 	-- "I'll show you what's under the tablecloth later.",
 	"T'ensenyaré que hi ha sota les estovalles més tard.",
 	-- "I have something to ask you, my dear. It's serious.",
@@ -2778,7 +2778,7 @@ st_data[ "#garage-poster6" ] =
 	-- "Stay away from Tocco. He's no mechanic.",
 	"No t'apropis a Tocco. Ell no és mecànic.",
 	-- "Framed? Get out and become a mechanic!",
-	"Vols ser un mecànic ?",
+	"Vols ser un mecànic?",
 	-- "Prisoners taking their own mugshots are cellfies.",
 	"Els presoners que es prenen les seves fotos es fan Celfies.",
 	-- "Caught for dealing flakka and lube",
