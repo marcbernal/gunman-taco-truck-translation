@@ -1,0 +1,46 @@
+-- st_data["#screenshot-saved"]		= "Save a screenshot?"
+st_data["#screenshot-saved"]		= ""
+
+-- st_data["#cant-save-screenshot"]	= "You need to grant access to the photo library in order for Gunman Taco Truck to save screenshots."
+st_data["#cant-save-screenshot"]	= ""
+
+-- st_data["#new-highscore"]			= "NEW HIGHSCORE!"
+st_data["#new-highscore"]			= ""
+
+-- st_data["#dedication"]		= "Dedicated to main.lua"
+st_data["#dedication"]			= ""
+
+
+st_data[ "#action_tutorial_desktop" ] =
+{
+
+-- 		"Roadside signs are an excellent source of scrap!",
+		"",	
+}
+
+-- st_data[ "#ticket_store_title" ] 		= "TOCCO'S TICKETS"
+st_data[ "#ticket_store_title" ] 			= ""
+
+-- st_data[ "#customer-hello" ]				= "Hello there, taco please."
+st_data[ "#customer-hello" ]				= ""
+
+-- st_data[ "#sales" ]						= "Sales"
+st_data[ "#sales" ]							= ""
+
+-- st_data[ "#tips" ]						= "Tips"
+st_data[ "#tips" ]							= ""
+
+-- st_data[ "#total" ]						= "Total"
+st_data[ "#total" ]							= ""
+
+-- st_data[ "#performance" ]				= "Performance"
+st_data[ "#performance" ]					= ""
+
+-- st_data["#new-recipes"]	 		= "NEW RECIPES!"
+st_data["#new-recipes"]				= ""
+
+-- st_data["#killed-by-in"]			= "Killed by %s in %s"
+st_data["#killed-by-in"]			= ""
+
+-- st_data["#killed-by-on"]			= "Killed by %s on the way to %s"
+st_data["#killed-by-on"]			= ""
